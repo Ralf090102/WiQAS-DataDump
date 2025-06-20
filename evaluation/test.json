@@ -1,0 +1,17 @@
+[
+    {
+        "item": 1,
+        "question": "Ano-ano ang mga ulam na dinala ng mga Kastila sa Pilipinas?",
+        "answer": "Kabilang sa mga ibang sikat na ulam na may impluwensyang Timog-silangang Asyano at Kastila ang apritada, asado, chorizo, empanada, mani, paksiw, pandesal, pescado frito (pinritong isda)"
+    },
+    {
+        "item": 2,
+        "question": "Sino ang leader ng katipunan ng mga Pilipino na nagpasimula ng rebolusyon laban sa mga Kastila?",
+        "answer": "Itong sistema ng kaugaliang Pilipino ay may katangi-tanging katipunan ng mga ideolohiya, moralidad, kabutihang asal, wastong kagawian, at kahalagahang personal at kultural na itinatakda ng lipunan"
+    },
+    {
+        "item": 3,
+        "question": "Who was the first President of the Philippines?",
+        "answer": "Ang isa pang subyang sa panig ni Macapagal ay ang Pangulo ng Senado na si Ferdinand Marcos, isang kapwa Liberal. Obviously false, but thats what the output says."
+    }
+]

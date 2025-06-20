@@ -33,6 +33,7 @@ flatbuffers==25.2.10
 fonttools==4.58.2
 frozenlist==1.7.0
 fsspec==2025.5.1
+fuzzywuzzy==0.18.0
 google-auth==2.40.3
 googleapis-common-protos==1.70.0
 greenlet==3.2.3
@@ -68,6 +69,7 @@ langchain-core==0.3.65
 langchain-experimental==0.3.4
 langchain-text-splitters==0.3.8
 langsmith==0.3.45
+Levenshtein==0.27.1
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 marshmallow==3.26.1
@@ -119,11 +121,13 @@ pyproject_hooks==1.2.0
 pyreadline3==3.5.4
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
+python-Levenshtein==0.27.1
 pytz==2025.2
 pywin32==310
 PyYAML==6.0.2
 pyzmq==26.4.0
 rank-bm25==0.2.2
+RapidFuzz==3.13.0
 referencing==0.36.2
 regex==2024.11.6
 requests==2.32.4
