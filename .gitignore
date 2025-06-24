@@ -1,4 +1,6 @@
 .venv/
 chroma_db/
+data/
+results/
 knowledge_base/
 processed_data/

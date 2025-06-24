@@ -1,0 +1,252 @@
+[
+  {
+    "item": 1,
+    "question": "Who is the national hero of the Philippines?",
+    "answer": "Jose Rizal"
+  },
+  {
+    "item": 2,
+    "question": "Ano ang ibig sabihin ng ‘bayanihan’ sa kulturang Pilipino?",
+    "answer": "Ang bayanihan ay ang tradisyon ng pagtutulungan at pagkakaisa sa komunidad, tulad ng sama-samang paglilipat ng bahay-kubo."
+  },
+  {
+    "item": 3,
+    "question": "What is the most famous Filipino dish?",
+    "answer": "Adobo is often considered the most famous Filipino dish, known for its savory blend of soy sauce, vinegar, and spices."
+  },
+  {
+    "item": 4,
+    "question": "Ano ang pangalan ng tradisyunal na sayaw na ginagawa sa mga pista sa Cebu?",
+    "answer": "Ang Sinulog ay ang tradisyunal na sayaw na ginagawa sa pista ng Sto. Niño sa Cebu."
+  },
+  {
+    "item": 5,
+    "question": "What is the significance of the Barong Tagalog in Filipino culture?",
+    "answer": "The Barong Tagalog is a traditional Filipino garment worn for formal occasions, symbolizing elegance and national pride."
+  },
+  {
+    "item": 6,
+    "question": "Sino ang unang pangulo ng Pilipinas?",
+    "answer": "Si Emilio Aguinaldo ang unang pangulo ng Pilipinas."
+  },
+  {
+    "item": 7,
+    "question": "What is the name of the traditional Filipino house made of bamboo and nipa?",
+    "answer": "The traditional Filipino house is called a bahay kubo."
+  },
+  {
+    "item": 8,
+    "question": "Ano ang pangunahing wika na ginagamit sa Pilipinas?",
+    "answer": "Ang Tagalog ay ang pangunahing wika, na naging batayan ng Filipino, ang pambansang wika."
+  },
+  {
+    "item": 9,
+    "question": "What is the Ati-Atihan festival known for?",
+    "answer": "The Ati-Atihan festival is known for its vibrant street dancing and celebration of the Sto. Niño in Kalibo, Aklan."
+  },
+  {
+    "item": 10,
+    "question": "Ano ang ‘kundiman’ sa konteksto ng musikang Pilipino?",
+    "answer": "Ang kundiman ay isang tradisyunal na awitin ng pag-ibig na nagpapahayag ng damdamin at patriotismo."
+  },
+  {
+    "item": 11,
+    "question": "What is the traditional Filipino Christmas lantern called?",
+    "answer": "The traditional Filipino Christmas lantern is called a parol."
+  },
+  {
+    "item": 12,
+    "question": "Sino ang kilalang pintor na lumikha ng ‘Spoliarium’?",
+    "answer": "Si Juan Luna ang pintor na lumikha ng ‘Spoliarium’."
+  },
+  {
+    "item": 13,
+    "question": "What is the role of the ‘barrio’ in Filipino society?",
+    "answer": "The barrio is a small community or village that serves as a basic social and administrative unit in rural Philippines."
+  },
+  {
+    "item": 14,
+    "question": "Ano ang ‘balut’ sa kulturang Pilipino?",
+    "answer": "Ang balut ay isang fertilized duck egg na kinakain bilang street food sa Pilipinas."
+  },
+  {
+    "item": 15,
+    "question": "What is the significance of the EDSA Revolution?",
+    "answer": "The EDSA Revolution of 1986 was a peaceful uprising that led to the ouster of Ferdinand Marcos and the restoration of democracy."
+  },
+  {
+    "item": 16,
+    "question": "Ano ang pangalan ng tradisyunal na damit ng kababaihan sa Pilipinas?",
+    "answer": "Ang tradisyunal na damit ng kababaihan ay tinutukoy bilang ‘baro’t saya’."
+  },
+  {
+    "item": 17,
+    "question": "What is the traditional Filipino game ‘sipa’?",
+    "answer": "Sipa is a traditional Filipino game where players kick a rattan ball to keep it in the air."
+  },
+  {
+    "item": 18,
+    "question": "Ano ang kahulugan ng ‘mano po’ sa tradisyong Pilipino?",
+    "answer": "Ang ‘mano po’ ay isang tradisyunal na kilos ng paggalang kung saan hinawakan ang kamay ng nakatatanda at idinadampi sa noo."
+  },
+  {
+    "item": 19,
+    "question": "What is the name of the epic poem from the Ilocano people?",
+    "answer": "The epic poem of the Ilocano people is called Biag ni Lam-ang."
+  },
+  {
+    "item": 20,
+    "question": "Ano ang ‘Pahiyas’ festival sa Quezon?",
+    "answer": "Ang Pahiyas festival ay isang makulay na pagdiriwang sa Lucban, Quezon, kung saan pinalalamutian ang mga bahay ng kiping at ani bilang pasasalamat."
+  },
+  {
+    "item": 21,
+    "question": "What is the traditional Filipino dance that mimics the movements of birds?",
+    "answer": "The Tinikling is a traditional Filipino dance that mimics the movements of birds hopping between bamboo poles."
+  },
+  {
+    "item": 22,
+    "question": "Ano ang ‘lechon’ sa konteksto ng pagkain sa Pilipinas?",
+    "answer": "Ang lechon ay isang inihaw na buong baboy na madalas ihinahain sa mga pista at espesyal na okasyon."
+  },
+  {
+    "item": 23,
+    "question": "Who wrote the novel ‘Noli Me Tangere’?",
+    "answer": "Jose Rizal wrote the novel ‘Noli Me Tangere’."
+  },
+  {
+    "item": 24,
+    "question": "Ano ang pangalan ng tradisyunal na instrumento na gawa sa kawayan?",
+    "answer": "Ang kudyapi ay isang tradisyunal na instrumento na gawa sa kawayan at ginagamit sa musika ng mga katutubo."
+  },
+  {
+    "item": 25,
+    "question": "What is the significance of the ‘Flores de Mayo’ celebration?",
+    "answer": "Flores de Mayo is a month-long celebration in May honoring the Virgin Mary with floral offerings and processions."
+  },
+  {
+    "item": 26,
+    "question": "Sino ang kilalang bayani na nanguna sa Katipunan?",
+    "answer": "Si Andres Bonifacio ang nanguna sa Katipunan."
+  },
+  {
+    "item": 27,
+    "question": "What is the traditional Filipino rice cake called?",
+    "answer": "The traditional Filipino rice cake is called bibingka."
+  },
+  {
+    "item": 28,
+    "question": "Ano ang ‘Panagbenga’ festival sa Baguio?",
+    "answer": "Ang Panagbenga ay isang flower festival sa Baguio na nagpapakita ng mga makukulay na parada ng bulaklak."
+  },
+  {
+    "item": 29,
+    "question": "What is the meaning of ‘utang na loob’ in Filipino culture?",
+    "answer": "Utang na loob refers to a debt of gratitude, a cultural value emphasizing reciprocity and obligation."
+  },
+  {
+    "item": 30,
+    "question": "Ano ang pangalan ng tradisyunal na sayaw ng mga Igorot?",
+    "answer": "Ang tradisyunal na sayaw ng mga Igorot ay tinutukoy bilang ‘bangko’ o ‘canao’."
+  },
+  {
+    "item": 31,
+    "question": "What is the traditional Filipino dessert made from sticky rice and coconut milk?",
+    "answer": "The traditional Filipino dessert is called suman."
+  },
+  {
+    "item": 32,
+    "question": "Ano ang ‘Moriones’ festival sa Marinduque?",
+    "answer": "Ang Moriones festival ay isang pagdiriwang kung saan ang mga kalahok ay nagsusuot ng maskara bilang mga sundalong Romano bilang bahagi ng Semana Santa."
+  },
+  {
+    "item": 33,
+    "question": "Who is the Filipino heroine known as the ‘Joan of Arc of the Philippines’?",
+    "answer": "Gabriela Silang is known as the ‘Joan of Arc of the Philippines’."
+  },
+  {
+    "item": 34,
+    "question": "Ano ang ‘harana’ sa tradisyong Pilipino?",
+    "answer": "Ang harana ay ang tradisyon ng panliligaw sa pamamagitan ng pagkanta ng mga awiting pag-ibig sa labas ng bahay ng babae."
+  },
+  {
+    "item": 35,
+    "question": "What is the traditional Filipino martial art called?",
+    "answer": "The traditional Filipino martial art is called Arnis or Eskrima."
+  },
+  {
+    "item": 36,
+    "question": "Ano ang pangunahing sangkap ng kare-kare?",
+    "answer": "Ang pangunahing sangkap ng kare-kare ay mani, na ginagamit sa sarsa, kasabay ng karne at gulay."
+  },
+  {
+    "item": 37,
+    "question": "What is the significance of the Malolos Constitution?",
+    "answer": "The Malolos Constitution was the first republican constitution in Asia, established in 1899 for the First Philippine Republic."
+  },
+  {
+    "item": 38,
+    "question": "Sino ang kilalang manunulat ng ‘Florante at Laura’?",
+    "answer": "Si Francisco Balagtas ang manunulat ng ‘Florante at Laura’."
+  },
+  {
+    "item": 39,
+    "question": "What is the traditional Filipino game involving a spinning top?",
+    "answer": "The traditional Filipino game involving a spinning top is called trompo."
+  },
+  {
+    "item": 40,
+    "question": "Ano ang ‘Simbang Gabi’ sa tradisyong Pilipino?",
+    "answer": "Ang Simbang Gabi ay isang serye ng siyam na misa bago ang Pasko, na isinasagawa sa madaling araw bilang paghahanda sa Kapaskuhan."
+  },
+  {
+    "item": 41,
+    "question": "What is the Kadayawan festival in Davao known for?",
+    "answer": "The Kadayawan festival is a celebration of Davao’s indigenous culture and bountiful harvest, featuring street dancing and floral floats."
+  },
+  {
+    "item": 42,
+    "question": "Sino ang kilalang eskultor na gumawa ng Oblation statue?",
+    "answer": "Si Guillermo Tolentino ang eskultor na gumawa ng Oblation statue."
+  },
+  {
+    "item": 43,
+    "question": "What is the traditional Filipino practice of ‘pasalubong’?",
+    "answer": "Pasalubong is the tradition of bringing gifts or souvenirs to family and friends after a trip."
+  },
+  {
+    "item": 44,
+    "question": "Ano ang pangalan ng tradisyunal na sayaw na gumagamit ng pandan leaves?",
+    "answer": "Ang tradisyunal na sayaw na gumagamit ng pandan leaves ay tinutukoy bilang Pandanggo sa Ilaw."
+  },
+  {
+    "item": 45,
+    "question": "What is the significance of the ‘Santacruzan’ procession?",
+    "answer": "The Santacruzan is a religious procession held during Flores de Mayo, reenacting the search for the Holy Cross."
+  },
+  {
+    "item": 46,
+    "question": "Ano ang ‘halo-halo’ sa konteksto ng pagkain?",
+    "answer": "Ang halo-halo ay isang sikat na dessert na pinaghalong yelo, gatas, prutas, at iba pang sangkap."
+  },
+  {
+    "item": 47,
+    "question": "Who was the first Filipino to win a gold medal in the Olympics?",
+    "answer": "Hidilyn Diaz was the first Filipino to win a gold medal in the Olympics, in weightlifting at the 2020 Tokyo Games."
+  },
+  {
+    "item": 48,
+    "question": "Ano ang kahulugan ng ‘hiya’ sa kulturang Pilipino?",
+    "answer": "Ang hiya ay tumutukoy sa pakiramdam ng kahihiyan o pagpapahalaga sa dangal at reputasyon sa lipunan."
+  },
+  {
+    "item": 49,
+    "question": "What is the traditional Filipino weaving technique used in T’nalak cloth?",
+    "answer": "The traditional weaving technique for T’nalak cloth is called dream weaving, practiced by the T’boli people."
+  },
+  {
+    "item": 50,
+    "question": "Ano ang ‘MassKara’ festival sa Bacolod?",
+    "answer": "Ang MassKara festival ay isang makulay na pagdiriwang sa Bacolod na nagpapakita ng mga maskara at sayaw bilang simbolo ng kaligayahan."
+  }
+]
