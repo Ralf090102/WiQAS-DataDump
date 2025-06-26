@@ -1,0 +1,2502 @@
+[
+  {
+    "item": 1,
+    "question": "Who is the national hero of the Philippines?",
+    "answer": "Jose Rizal"
+  },
+  {
+    "item": 2,
+    "question": "Ano ang ibig sabihin ng ‘bayanihan’ sa kulturang Pilipino?",
+    "answer": "Ang bayanihan ay ang tradisyon ng pagtutulungan at pagkakaisa sa komunidad, tulad ng sama-samang paglilipat ng bahay-kubo."
+  },
+  {
+    "item": 3,
+    "question": "What is the most famous Filipino dish?",
+    "answer": "Adobo is often considered the most famous Filipino dish, known for its savory blend of soy sauce, vinegar, and spices."
+  },
+  {
+    "item": 4,
+    "question": "Ano ang pangalan ng tradisyunal na sayaw na ginagawa sa mga pista sa Cebu?",
+    "answer": "Ang Sinulog ay ang tradisyunal na sayaw na ginagawa sa pista ng Sto. Niño sa Cebu."
+  },
+  {
+    "item": 5,
+    "question": "What is the significance of the Barong Tagalog in Filipino culture?",
+    "answer": "The Barong Tagalog is a traditional Filipino garment worn for formal occasions, symbolizing elegance and national pride."
+  },
+  {
+    "item": 6,
+    "question": "Sino ang unang pangulo ng Pilipinas?",
+    "answer": "Si Emilio Aguinaldo ang unang pangulo ng Pilipinas."
+  },
+  {
+    "item": 7,
+    "question": "What is the name of the traditional Filipino house made of bamboo and nipa?",
+    "answer": "The traditional Filipino house is called a bahay kubo."
+  },
+  {
+    "item": 8,
+    "question": "Ano ang pangunahing wika na ginagamit sa Pilipinas?",
+    "answer": "Ang Tagalog ay ang pangunahing wika, na naging batayan ng Filipino, ang pambansang wika."
+  },
+  {
+    "item": 9,
+    "question": "What is the Ati-Atihan festival known for?",
+    "answer": "The Ati-Atihan festival is known for its vibrant street dancing and celebration of the Sto. Niño in Kalibo, Aklan."
+  },
+  {
+    "item": 10,
+    "question": "Ano ang ‘kundiman’ sa konteksto ng musikang Pilipino?",
+    "answer": "Ang kundiman ay isang tradisyunal na awitin ng pag-ibig na nagpapahayag ng damdamin at patriotismo."
+  },
+  {
+    "item": 11,
+    "question": "What is the traditional Filipino Christmas lantern called?",
+    "answer": "The traditional Filipino Christmas lantern is called a parol."
+  },
+  {
+    "item": 12,
+    "question": "Sino ang kilalang pintor na lumikha ng ‘Spoliarium’?",
+    "answer": "Si Juan Luna ang pintor na lumikha ng ‘Spoliarium’."
+  },
+  {
+    "item": 13,
+    "question": "What is the role of the ‘barrio’ in Filipino society?",
+    "answer": "The barrio is a small community or village that serves as a basic social and administrative unit in rural Philippines."
+  },
+  {
+    "item": 14,
+    "question": "Ano ang ‘balut’ sa kulturang Pilipino?",
+    "answer": "Ang balut ay isang fertilized duck egg na kinakain bilang street food sa Pilipinas."
+  },
+  {
+    "item": 15,
+    "question": "What is the significance of the EDSA Revolution?",
+    "answer": "The EDSA Revolution of 1986 was a peaceful uprising that led to the ouster of Ferdinand Marcos and the restoration of democracy."
+  },
+  {
+    "item": 16,
+    "question": "Ano ang pangalan ng tradisyunal na damit ng kababaihan sa Pilipinas?",
+    "answer": "Ang tradisyunal na damit ng kababaihan ay tinutukoy bilang ‘baro’t saya’."
+  },
+  {
+    "item": 17,
+    "question": "What is the traditional Filipino game ‘sipa’?",
+    "answer": "Sipa is a traditional Filipino game where players kick a rattan ball to keep it in the air."
+  },
+  {
+    "item": 18,
+    "question": "Ano ang kahulugan ng ‘mano po’ sa tradisyong Pilipino?",
+    "answer": "Ang ‘mano po’ ay isang tradisyunal na kilos ng paggalang kung saan hinawakan ang kamay ng nakatatanda at idinadampi sa noo."
+  },
+  {
+    "item": 19,
+    "question": "What is the name of the epic poem from the Ilocano people?",
+    "answer": "The epic poem of the Ilocano people is called Biag ni Lam-ang."
+  },
+  {
+    "item": 20,
+    "question": "Ano ang ‘Pahiyas’ festival sa Quezon?",
+    "answer": "Ang Pahiyas festival ay isang makulay na pagdiriwang sa Lucban, Quezon, kung saan pinalalamutian ang mga bahay ng kiping at ani bilang pasasalamat."
+  },
+  {
+    "item": 21,
+    "question": "What is the traditional Filipino dance that mimics the movements of birds?",
+    "answer": "The Tinikling is a traditional Filipino dance that mimics the movements of birds hopping between bamboo poles."
+  },
+  {
+    "item": 22,
+    "question": "Ano ang ‘lechon’ sa konteksto ng pagkain sa Pilipinas?",
+    "answer": "Ang lechon ay isang inihaw na buong baboy na madalas ihinahain sa mga pista at espesyal na okasyon."
+  },
+  {
+    "item": 23,
+    "question": "Who wrote the novel ‘Noli Me Tangere’?",
+    "answer": "Jose Rizal wrote the novel ‘Noli Me Tangere’."
+  },
+  {
+    "item": 24,
+    "question": "Ano ang pangalan ng tradisyunal na instrumento na gawa sa kawayan?",
+    "answer": "Ang kudyapi ay isang tradisyunal na instrumento na gawa sa kawayan at ginagamit sa musika ng mga katutubo."
+  },
+  {
+    "item": 25,
+    "question": "What is the significance of the ‘Flores de Mayo’ celebration?",
+    "answer": "Flores de Mayo is a month-long celebration in May honoring the Virgin Mary with floral offerings and processions."
+  },
+  {
+    "item": 26,
+    "question": "Sino ang kilalang bayani na nanguna sa Katipunan?",
+    "answer": "Si Andres Bonifacio ang nanguna sa Katipunan."
+  },
+  {
+    "item": 27,
+    "question": "What is the traditional Filipino rice cake called?",
+    "answer": "The traditional Filipino rice cake is called bibingka."
+  },
+  {
+    "item": 28,
+    "question": "Ano ang ‘Panagbenga’ festival sa Baguio?",
+    "answer": "Ang Panagbenga ay isang flower festival sa Baguio na nagpapakita ng mga makukulay na parada ng bulaklak."
+  },
+  {
+    "item": 29,
+    "question": "What is the meaning of ‘utang na loob’ in Filipino culture?",
+    "answer": "Utang na loob refers to a debt of gratitude, a cultural value emphasizing reciprocity and obligation."
+  },
+  {
+    "item": 30,
+    "question": "Ano ang pangalan ng tradisyunal na sayaw ng mga Igorot?",
+    "answer": "Ang tradisyunal na sayaw ng mga Igorot ay tinutukoy bilang ‘bangko’ o ‘canao’."
+  },
+  {
+    "item": 31,
+    "question": "What is the traditional Filipino dessert made from sticky rice and coconut milk?",
+    "answer": "The traditional Filipino dessert is called suman."
+  },
+  {
+    "item": 32,
+    "question": "Ano ang ‘Moriones’ festival sa Marinduque?",
+    "answer": "Ang Moriones festival ay isang pagdiriwang kung saan ang mga kalahok ay nagsusuot ng maskara bilang mga sundalong Romano bilang bahagi ng Semana Santa."
+  },
+  {
+    "item": 33,
+    "question": "Who is the Filipino heroine known as the ‘Joan of Arc of the Philippines’?",
+    "answer": "Gabriela Silang is known as the ‘Joan of Arc of the Philippines’."
+  },
+  {
+    "item": 34,
+    "question": "Ano ang ‘harana’ sa tradisyong Pilipino?",
+    "answer": "Ang harana ay ang tradisyon ng panliligaw sa pamamagitan ng pagkanta ng mga awiting pag-ibig sa labas ng bahay ng babae."
+  },
+  {
+    "item": 35,
+    "question": "What is the traditional Filipino martial art called?",
+    "answer": "The traditional Filipino martial art is called Arnis or Eskrima."
+  },
+  {
+    "item": 36,
+    "question": "Ano ang pangunahing sangkap ng kare-kare?",
+    "answer": "Ang pangunahing sangkap ng kare-kare ay mani, na ginagamit sa sarsa, kasabay ng karne at gulay."
+  },
+  {
+    "item": 37,
+    "question": "What is the significance of the Malolos Constitution?",
+    "answer": "The Malolos Constitution was the first republican constitution in Asia, established in 1899 for the First Philippine Republic."
+  },
+  {
+    "item": 38,
+    "question": "Sino ang kilalang manunulat ng ‘Florante at Laura’?",
+    "answer": "Si Francisco Balagtas ang manunulat ng ‘Florante at Laura’."
+  },
+  {
+    "item": 39,
+    "question": "What is the traditional Filipino game involving a spinning top?",
+    "answer": "The traditional Filipino game involving a spinning top is called trompo."
+  },
+  {
+    "item": 40,
+    "question": "Ano ang ‘Simbang Gabi’ sa tradisyong Pilipino?",
+    "answer": "Ang Simbang Gabi ay isang serye ng siyam na misa bago ang Pasko, na isinasagawa sa madaling araw bilang paghahanda sa Kapaskuhan."
+  },
+  {
+    "item": 41,
+    "question": "What is the Kadayawan festival in Davao known for?",
+    "answer": "The Kadayawan festival is a celebration of Davao’s indigenous culture and bountiful harvest, featuring street dancing and floral floats."
+  },
+  {
+    "item": 42,
+    "question": "Sino ang kilalang eskultor na gumawa ng Oblation statue?",
+    "answer": "Si Guillermo Tolentino ang eskultor na gumawa ng Oblation statue."
+  },
+  {
+    "item": 43,
+    "question": "What is the traditional Filipino practice of ‘pasalubong’?",
+    "answer": "Pasalubong is the tradition of bringing gifts or souvenirs to family and friends after a trip."
+  },
+  {
+    "item": 44,
+    "question": "Ano ang pangalan ng tradisyunal na sayaw na gumagamit ng pandan leaves?",
+    "answer": "Ang tradisyunal na sayaw na gumagamit ng pandan leaves ay tinutukoy bilang Pandanggo sa Ilaw."
+  },
+  {
+    "item": 45,
+    "question": "What is the significance of the ‘Santacruzan’ procession?",
+    "answer": "The Santacruzan is a religious procession held during Flores de Mayo, reenacting the search for the Holy Cross."
+  },
+  {
+    "item": 46,
+    "question": "Ano ang ‘halo-halo’ sa konteksto ng pagkain?",
+    "answer": "Ang halo-halo ay isang sikat na dessert na pinaghalong yelo, gatas, prutas, at iba pang sangkap."
+  },
+  {
+    "item": 47,
+    "question": "Who was the first Filipino to win a gold medal in the Olympics?",
+    "answer": "Hidilyn Diaz was the first Filipino to win a gold medal in the Olympics, in weightlifting at the 2020 Tokyo Games."
+  },
+  {
+    "item": 48,
+    "question": "Ano ang kahulugan ng ‘hiya’ sa kulturang Pilipino?",
+    "answer": "Ang hiya ay tumutukoy sa pakiramdam ng kahihiyan o pagpapahalaga sa dangal at reputasyon sa lipunan."
+  },
+  {
+    "item": 49,
+    "question": "What is the traditional Filipino weaving technique used in T’nalak cloth?",
+    "answer": "The traditional weaving technique for T’nalak cloth is called dream weaving, practiced by the T’boli people."
+  },
+  {
+    "item": 50,
+    "question": "Ano ang ‘MassKara’ festival sa Bacolod?",
+    "answer": "Ang MassKara festival ay isang makulay na pagdiriwang sa Bacolod na nagpapakita ng mga maskara at sayaw bilang simbolo ng kaligayahan."
+  },
+  {
+    "item": 51,
+    "question": "What is the significance of the Banaue Rice Terraces?",
+    "answer": "The Banaue Rice Terraces, built by the Ifugao people, are a UNESCO World Heritage Site symbolizing agricultural ingenuity."
+  },
+  {
+    "item": 52,
+    "question": "Sino ang kilalang kompositor ng ‘Sa Ugoy ng Duyan’?",
+    "answer": "Si Lucio San Pedro ang kompositor ng ‘Sa Ugoy ng Duyan’."
+  },
+  {
+    "item": 53,
+    "question": "What is the traditional Filipino dish ‘sisig’ made of?",
+    "answer": "Sisig is a dish made from chopped pig’s head and liver, seasoned with calamansi and chili."
+  },
+  {
+    "item": 54,
+    "question": "Ano ang ‘Magellan’s Cross’ sa Cebu?",
+    "answer": "Ang Magellan’s Cross ay isang makasaysayang krus na itinanim ni Ferdinand Magellan sa Cebu bilang simbolo ng Kristiyanismo."
+  },
+  {
+    "item": 55,
+    "question": "What is the traditional Filipino game ‘piko’?",
+    "answer": "Piko is a traditional Filipino hopscotch game played on a drawn grid using a marker like a stone."
+  },
+  {
+    "item": 56,
+    "question": "Ano ang ‘Dinagyang’ festival sa Iloilo?",
+    "answer": "Ang Dinagyang festival ay isang relihiyosong pagdiriwang sa Iloilo na nagbibigay-pugay sa Sto. Niño sa pamamagitan ng sayaw."
+  },
+  {
+    "item": 57,
+    "question": "Who is the Filipino poet known as ‘Huseng Sisiw’?",
+    "answer": "Jose Corazon de Jesus is known as ‘Huseng Sisiw’."
+  },
+  {
+    "item": 58,
+    "question": "Ano ang pangalan ng tradisyunal na awitin ng mga Tagalog na ginagamit sa libing?",
+    "answer": "Ang tradisyunal na awitin sa libing ay tinutukoy bilang ‘dung-aw’."
+  },
+  {
+    "item": 59,
+    "question": "What is the significance of the ‘Katipunan’ in Philippine history?",
+    "answer": "The Katipunan was a revolutionary organization founded by Andres Bonifacio to fight for independence from Spanish rule."
+  },
+  {
+    "item": 60,
+    "question": "Ano ang ‘tuba’ sa konteksto ng inumin sa Pilipinas?",
+    "answer": "Ang tuba ay isang tradisyunal na inuming alkohol mula sa katas ng niyog."
+  },
+  {
+    "item": 61,
+    "question": "What is the traditional Filipino dance ‘Cariñosa’ known for?",
+    "answer": "The Cariñosa is a romantic Filipino dance characterized by the use of fans and handkerchiefs."
+  },
+  {
+    "item": 62,
+    "question": "Sino ang kilalang bayani na tinuturing na ‘Brains of the Katipunan’?",
+    "answer": "Si Emilio Jacinto ang tinuturing na ‘Brains of the Katipunan’."
+  },
+  {
+    "item": 63,
+    "question": "What is the traditional Filipino snack ‘kakanin’?",
+    "answer": "Kakanin refers to a variety of Filipino snacks made from glutinous rice, such as puto and biko."
+  },
+  {
+    "item": 64,
+    "question": "Ano ang ‘Higantes’ festival sa Angono?",
+    "answer": "Ang Higantes festival ay isang pagdiriwang sa Angono, Rizal, na nagtatampok ng malalaking papier-mâché na pigura."
+  },
+  {
+    "item": 65,
+    "question": "What is the significance of the ‘Lapu-Lapu’ monument in Cebu?",
+    "answer": "The Lapu-Lapu monument commemorates the chieftain who defeated Ferdinand Magellan in the Battle of Mactan."
+  },
+  {
+    "item": 66,
+    "question": "Ano ang pangalan ng tradisyunal na kasalan sa Pilipinas?",
+    "answer": "Ang tradisyunal na kasalan sa Pilipinas ay tinutukoy bilang ‘kasalan sa simbahan’ o ‘pamamanhikan’."
+  },
+  {
+    "item": 67,
+    "question": "What is the traditional Filipino instrument ‘bandurria’ used for?",
+    "answer": "The bandurria is a stringed instrument used in rondalla ensembles to play traditional Filipino music."
+  },
+  {
+    "item": 68,
+    "question": "Ano ang ‘Obando’ festival sa Bulacan?",
+    "answer": "Ang Obando festival ay isang pagdiriwang ng pagkamayabong, na may sayaw bilang pagbibigay-pugay kina Santa Clara, San Pascual, at San Isidro."
+  },
+  {
+    "item": 69,
+    "question": "What is the traditional Filipino dish ‘tinola’ made of?",
+    "answer": "Tinola is a chicken soup dish made with green papaya, chili leaves, and ginger."
+  },
+  {
+    "item": 70,
+    "question": "Sino ang kilalang manunulat ng ‘El Filibusterismo’?",
+    "answer": "Si Jose Rizal ang manunulat ng ‘El Filibusterismo’."
+  },
+  {
+    "item": 71,
+    "question": "What is the traditional Filipino practice of ‘alay’?",
+    "answer": "Alay refers to offerings made to deities or spirits in Filipino folk religion."
+  },
+  {
+    "item": 72,
+    "question": "Ano ang ‘Kaamulan’ festival sa Bukidnon?",
+    "answer": "Ang Kaamulan festival ay isang pagdiriwang ng kultura ng mga katutubong grupo sa Bukidnon."
+  },
+  {
+    "item": 73,
+    "question": "What is the significance of the ‘Rizal Park’ in Manila?",
+    "answer": "Rizal Park, also known as Luneta, is a historic park dedicated to Jose Rizal, where he was executed."
+  },
+  {
+    "item": 74,
+    "question": "Ano ang ‘tsinelas’ sa konteksto ng tradisyunal na kasuotan?",
+    "answer": "Ang tsinelas ay tumutukoy sa tradisyunal na sandal na madalas ginagamit sa pang-araw-araw na buhay sa Pilipinas."
+  },
+  {
+    "item": 75,
+    "question": "What is the traditional Filipino game ‘luksong tinik’?",
+    "answer": "Luksong tinik is a traditional Filipino game where players jump over obstacles made of hands and feet."
+  },
+  {
+    "item": 76,
+    "question": "Ano ang pangalan ng tradisyunal na awitin ng mga Ilonggo?",
+    "answer": "Ang tradisyunal na awitin ng mga Ilonggo ay tinutukoy bilang ‘dandansoy’."
+  },
+  {
+    "item": 77,
+    "question": "What is the significance of the ‘T’nalak’ festival in South Cotabato?",
+    "answer": "The T’nalak festival celebrates the T’boli people’s weaving tradition, particularly the T’nalak cloth."
+  },
+  {
+    "item": 78,
+    "question": "Sino ang kilalang bayani na tinaguriang ‘Heneral Luna’?",
+    "answer": "Si Antonio Luna ang tinaguriang ‘Heneral Luna’."
+  },
+  {
+    "item": 79,
+    "question": "What is the traditional Filipino dish ‘pancit’?",
+    "answer": "Pancit is a noodle dish with various regional styles, often served at celebrations."
+  },
+  {
+    "item": 80,
+    "question": "Ano ang ‘Sandugo’ festival sa Bohol?",
+    "answer": "Ang Sandugo festival ay nagdiriwang ng kasunduan sa dugo sa pagitan nina Miguel Lopez de Legazpi at Datu Sikatuna."
+  },
+  {
+    "item": 81,
+    "question": "What is the traditional Filipino practice of ‘pamanhikan’?",
+    "answer": "Pamanhikan is the tradition where the groom’s family formally asks for the bride’s hand in marriage."
+  },
+  {
+    "item": 82,
+    "question": "Ano ang ‘Ifugao’ hut sa konteksto ng arkitektura?",
+    "answer": "Ang Ifugao hut ay isang tradisyunal na bahay ng mga Ifugao na may mataas na bubong at gawa sa kahoy at dayami."
+  },
+  {
+    "item": 83,
+    "question": "What is the significance of the ‘Intramuros’ in Manila?",
+    "answer": "Intramuros is the historic walled city in Manila, built during Spanish colonial times."
+  },
+  {
+    "item": 84,
+    "question": "Ano ang ‘kundiman’ festival sa Balayan, Batangas?",
+    "answer": "Ang kundiman festival ay isang pagdiriwang ng tradisyunal na musikang Pilipino, partikular ang kundiman."
+  },
+  {
+    "item": 85,
+    "question": "What is the traditional Filipino dessert ‘leche flan’?",
+    "answer": "Leche flan is a creamy custard dessert made from eggs, milk, and caramel."
+  },
+  {
+    "item": 86,
+    "question": "Sino ang kilalang bayani na tinaguriang ‘Boy General’?",
+    "answer": "Si Gregorio del Pilar ang tinaguriang ‘Boy General’."
+  },
+  {
+    "item": 87,
+    "question": "What is the traditional Filipino game ‘sungka’?",
+    "answer": "Sungka is a traditional Filipino board game played with shells or stones in a wooden board."
+  },
+  {
+    "item": 88,
+    "question": "Ano ang ‘Lanzones’ festival sa Camiguin?",
+    "answer": "Ang Lanzones festival ay isang pagdiriwang ng ani ng lanzones sa Camiguin."
+  },
+  {
+    "item": 89,
+    "question": "What is the significance of the ‘Philippine Eagle’ in Filipino culture?",
+    "answer": "The Philippine Eagle is a national symbol of strength and conservation efforts."
+  },
+  {
+    "item": 90,
+    "question": "Ano ang ‘balete’ tree sa folklor ng Pilipino?",
+    "answer": "Ang balete tree ay itinuturing na sagrado o tahanan ng mga espiritu sa folklor ng Pilipino."
+  },
+  {
+    "item": 91,
+    "question": "What is the traditional Filipino dance ‘Pandanggo sa Ilaw’ known for?",
+    "answer": "Pandanggo sa Ilaw is a dance that involves balancing oil lamps on the head and hands."
+  },
+  {
+    "item": 92,
+    "question": "Sino ang kilalang kompositor ng ‘Kay Ganda ng Ating Musika’?",
+    "answer": "Si Ryan Cayabyab ang kompositor ng ‘Kay Ganda ng Ating Musika’."
+  },
+  {
+    "item": 93,
+    "question": "What is the traditional Filipino dish ‘bulalo’?",
+    "answer": "Bulalo is a beef shank soup with bone marrow, often cooked with vegetables."
+  },
+  {
+    "item": 94,
+    "question": "Ano ang ‘Cutud Lenten Rites’ sa Pampanga?",
+    "answer": "Ang Cutud Lenten Rites ay isang tradisyon sa Pampanga kung saan ginaganap ang reenactment ng pagpapako sa krus tuwing Semana Santa."
+  },
+  {
+    "item": 95,
+    "question": "What is the significance of the ‘Chocolate Hills’ in Bohol?",
+    "answer": "The Chocolate Hills are a geological formation and tourist attraction in Bohol, named for their brown appearance during the dry season."
+  },
+  {
+    "item": 96,
+    "question": "Ano ang ‘salakot’ sa konteksto ng tradisyunal na kasuotan?",
+    "answer": "Ang salakot ay isang tradisyunal na sumbrero na gawa sa kawayan o rattan, ginagamit bilang proteksyon sa araw."
+  },
+  {
+    "item": 97,
+    "question": "What is the traditional Filipino practice of ‘anting-anting’?",
+    "answer": "Anting-anting refers to amulets or charms believed to provide protection or power in Filipino folk beliefs."
+  },
+  {
+    "item": 98,
+    "question": "Ano ang ‘Sublian’ festival sa Batangas?",
+    "answer": "Ang Sublian festival ay isang pagdiriwang sa Batangas na nagbibigay-pugay sa Sto. Niño sa pamamagitan ng sayaw at awitin."
+  },
+  {
+    "item": 99,
+    "question": "What is the traditional Filipino dish ‘kinilaw’?",
+    "answer": "Kinilaw is a dish of raw fish marinated in vinegar or citrus, similar to ceviche."
+  },
+  {
+    "item": 100,
+    "question": "Ano ang kahulugan ng ‘kapwa’ sa kulturang Pilipino?",
+    "answer": "Ang ‘kapwa’ ay tumutukoy sa pakikipagkapwa-tao, ang pagtrato sa iba bilang kapantay at bahagi ng sarili."
+  },
+  {
+    "item": 101,
+    "question": "Sino ang tinuturing na ‘Sublime Paralytic’ sa kasaysayan ng Pilipinas?",
+    "answer": "Si Apolinario Mabini ang tinuturing na ‘Sublime Paralytic’."
+  },
+  {
+    "item": 102,
+    "question": "What is the traditional Filipino dish ‘menudo’ made of?",
+    "answer": "Menudo is a pork stew made with liver, tomatoes, potatoes, and bell peppers."
+  },
+  {
+    "item": 103,
+    "question": "Ano ang ‘Pintados’ festival sa Tacloban?",
+    "answer": "Ang Pintados festival ay isang pagdiriwang sa Tacloban na nagpapakita ng tradisyunal na tattoo ng mga Waray bilang simbolo ng kultura."
+  },
+  {
+    "item": 104,
+    "question": "What is the significance of the ‘Cry of Pugad Lawin’?",
+    "answer": "The Cry of Pugad Lawin in 1896 marked the start of the Philippine Revolution against Spanish rule, led by Andres Bonifacio."
+  },
+  {
+    "item": 105,
+    "question": "Ano ang ‘sari-sari’ store sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang sari-sari store ay isang maliit na tindahan na nagbebenta ng iba’t ibang pang-araw-araw na produkto sa komunidad."
+  },
+  {
+    "item": 106,
+    "question": "What is the traditional Filipino epic ‘Ibong Adarna’ about?",
+    "answer": "Ibong Adarna is a mythical epic about a magical bird whose song can heal or harm, and the adventures of three princes."
+  },
+  {
+    "item": 107,
+    "question": "Sino ang kilalang bayani na tinaguriang ‘Tandang Sora’?",
+    "answer": "Si Melchora Aquino ang tinaguriang ‘Tandang Sora’."
+  },
+  {
+    "item": 108,
+    "question": "What is the traditional Filipino dish ‘dinuguan’?",
+    "answer": "Dinuguan is a savory stew made from pork blood and meat, often spiced with vinegar and chili."
+  },
+  {
+    "item": 109,
+    "question": "Ano ang ‘Ibalong’ festival sa Legazpi?",
+    "answer": "Ang Ibalong festival ay isang pagdiriwang sa Legazpi na nagbibigay-pugay sa epikong Bicolano tungkol sa mga bayani at mitolohiya."
+  },
+  {
+    "item": 110,
+    "question": "What is the traditional Filipino practice of ‘pagpag’?",
+    "answer": "Pagpag is a superstition where one avoids going straight home after a wake to shake off bad spirits."
+  },
+  {
+    "item": 111,
+    "question": "Ano ang pangalan ng tradisyunal na sayaw ng mga Maranao?",
+    "answer": "Ang tradisyunal na sayaw ng mga Maranao ay tinutukoy bilang ‘Singkil’."
+  },
+  {
+    "item": 112,
+    "question": "What is the significance of Fort Santiago in Manila?",
+    "answer": "Fort Santiago is a historic fortress in Intramuros where Jose Rizal was imprisoned before his execution."
+  },
+  {
+    "item": 113,
+    "question": "Sino ang kilalang manunulat ng ‘Ang Matanda at ang Dagat’ sa Pilipinas?",
+    "answer": "Si Edith Tiempo ang kilalang manunulat na Pilipino na nauugnay sa panitikan."
+  },
+  {
+    "item": 114,
+    "question": "What is the traditional Filipino game ‘palo sebo’?",
+    "answer": "Palo sebo is a traditional Filipino game where players climb a greased bamboo pole to reach a prize at the top."
+  },
+  {
+    "item": 115,
+    "question": "Ano ang ‘Hermosa’ festival sa Zamboanga?",
+    "answer": "Ang Hermosa festival ay isang pagdiriwang sa Zamboanga na nagbibigay-pugay sa Nuestra Señora del Pilar."
+  },
+  {
+    "item": 116,
+    "question": "What is the traditional Filipino dish ‘pinakbet’?",
+    "answer": "Pinakbet is a vegetable stew from Ilocos, cooked with shrimp paste and mixed with local vegetables."
+  },
+  {
+    "item": 117,
+    "question": "Ano ang kahulugan ng ‘po’ at ‘opo’ sa wikang Tagalog?",
+    "answer": "Ang ‘po’ at ‘opo’ ay mga salitang nagpapakita ng paggalang sa mga nakatatanda sa wikang Tagalog."
+  },
+  {
+    "item": 118,
+    "question": "What is the significance of the Vigan heritage site?",
+    "answer": "Vigan is a UNESCO World Heritage Site known for its well-preserved Spanish colonial architecture."
+  },
+  {
+    "item": 119,
+    "question": "Sino ang unang babaeng pangulo ng Pilipinas?",
+    "answer": "Si Corazon Aquino ang unang babaeng pangulo ng Pilipinas."
+  },
+  {
+    "item": 120,
+    "question": "Ano ang ‘banig’ sa konteksto ng tradisyunal na sining?",
+    "answer": "Ang banig ay isang tradisyunal na hinabing tikar na gawa sa dahon ng pandan o buri."
+  },
+  {
+    "item": 121,
+    "question": "What is the traditional Filipino game ‘patintero’?",
+    "answer": "Patintero is a traditional Filipino street game where players try to cross a grid without being tagged."
+  },
+  {
+    "item": 122,
+    "question": "Ano ang ‘Kadayawan’ festival sa Davao?",
+    "answer": "Ang Kadayawan festival ay isang pagdiriwang ng kultura ng mga katutubo at ani sa Davao."
+  },
+  {
+    "item": 123,
+    "question": "What is the significance of the ‘Mayon Volcano’ in Filipino culture?",
+    "answer": "Mayon Volcano in Albay is a cultural and natural landmark known for its perfect cone shape."
+  },
+  {
+    "item": 124,
+    "question": "Sino ang kilalang pintor ng ‘Planting Rice’?",
+    "answer": "Si Fernando Amorsolo ang pintor ng ‘Planting Rice’."
+  },
+  {
+    "item": 125,
+    "question": "What is the traditional Filipino dish ‘afritada’?",
+    "answer": "Afritada is a tomato-based stew with chicken or pork, potatoes, and bell peppers."
+  },
+  {
+    "item": 126,
+    "question": "Ano ang ‘Bamboo Organ’ sa Las Piñas?",
+    "answer": "Ang Bamboo Organ ay isang natatanging organo sa simbahan ng Las Piñas na gawa sa kawayan."
+  },
+  {
+    "item": 127,
+    "question": "What is the traditional Filipino practice of ‘pamana’?",
+    "answer": "Pamana refers to the tradition of passing down heirlooms or inheritance to the next generation."
+  },
+  {
+    "item": 128,
+    "question": "Ano ang ‘Pintaflores’ festival sa Bogo, Cebu?",
+    "answer": "Ang Pintaflores festival ay isang pagdiriwang sa Bogo, Cebu, na nagpapakita ng mga tattoo-inspired na sayaw."
+  },
+  {
+    "item": 129,
+    "question": "What is the significance of the ‘Basi Revolt’ in Ilocos?",
+    "answer": "The Basi Revolt of 1807 was an uprising in Ilocos against Spanish restrictions on basi wine production."
+  },
+  {
+    "item": 130,
+    "question": "Ano ang ‘rondalla’ sa konteksto ng musikang Pilipino?",
+    "answer": "Ang rondalla ay isang ensemble ng mga instrumentong may kuwerdas tulad ng bandurria at gitara."
+  },
+  {
+    "item": 131,
+    "question": "What is the traditional Filipino dish ‘caldereta’?",
+    "answer": "Caldereta is a spicy tomato-based stew, typically made with goat meat or beef."
+  },
+  {
+    "item": 132,
+    "question": "Sino ang kilalang bayani na nanguna sa ‘Battle of Tirad Pass’?",
+    "answer": "Si Gregorio del Pilar ang nanguna sa Battle of Tirad Pass."
+  },
+  {
+    "item": 133,
+    "question": "What is the traditional Filipino practice of ‘barkada’?",
+    "answer": "Barkada refers to a close group of friends who share strong social bonds in Filipino culture."
+  },
+  {
+    "item": 134,
+    "question": "Ano ang ‘T’boli’ tribe sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang T’boli ay isang katutubong grupo sa South Cotabato na kilala sa kanilang sining sa paghahabi ng T’nalak."
+  },
+  {
+    "item": 135,
+    "question": "What is the significance of the ‘San Juanico Bridge’?",
+    "answer": "The San Juanico Bridge connects Samar and Leyte, symbolizing regional unity and engineering."
+  },
+  {
+    "item": 136,
+    "question": "Ano ang ‘buko pie’ sa konteksto ng pagkain?",
+    "answer": "Ang buko pie ay isang tradisyunal na dessert na gawa sa batang niyog, gatas, at asukal."
+  },
+  {
+    "item": 137,
+    "question": "What is the traditional Filipino game ‘tumbang preso’?",
+    "answer": "Tumbang preso is a game where players try to knock over a can with a slipper while avoiding being tagged."
+  },
+  {
+    "item": 138,
+    "question": "Sino ang kilalang manunulat ng ‘Banaag at Sikat’?",
+    "answer": "Si Lope K. Santos ang manunulat ng ‘Banaag at Sikat’."
+  },
+  {
+    "item": 139,
+    "question": "What is the significance of the ‘Barasoain Church’ in Malolos?",
+    "answer": "Barasoain Church is known as the ‘Cradle of Democracy’ where the Malolos Constitution was drafted."
+  },
+  {
+    "item": 140,
+    "question": "Ano ang ‘Pasyon’ sa tradisyong Pilipino?",
+    "answer": "Ang Pasyon ay isang tradisyunal na pag-awit o pagbasa ng salaysay ng buhay ni Hesukristo tuwing Semana Santa."
+  },
+  {
+    "item": 141,
+    "question": "What is the traditional Filipino dish ‘laing’?",
+    "answer": "Laing is a Bicolano dish made from taro leaves cooked in coconut milk with chili."
+  },
+  {
+    "item": 142,
+    "question": "Ano ang ‘Kutang Bato’ sa Palawan?",
+    "answer": "Ang Kutang Bato ay isang makasaysayang kuta sa Puerto Princesa, Palawan, na itinayo noong panahon ng Espanyol."
+  },
+  {
+    "item": 143,
+    "question": "What is the traditional Filipino practice of ‘hilot’?",
+    "answer": "Hilot is a traditional Filipino healing massage used to treat ailments and promote wellness."
+  },
+  {
+    "item": 144,
+    "question": "Sino ang kilalang kompositor ng ‘Pandanggo sa Ilaw’?",
+    "answer": "Si Antonino Buenaventura ang kilalang kompositor na nauugnay sa ‘Pandanggo sa Ilaw’."
+  },
+  {
+    "item": 145,
+    "question": "What is the significance of the ‘Bataan Death March’?",
+    "answer": "The Bataan Death March of 1942 was a forced march of Filipino and American prisoners by Japanese forces during WWII."
+  },
+  {
+    "item": 146,
+    "question": "Ano ang ‘piña’ fabric sa konteksto ng tradisyunal na tela?",
+    "answer": "Ang piña fabric ay isang tradisyunal na tela na gawa sa hibla ng dahon ng pinya, ginagamit sa Barong Tagalog."
+  },
+  {
+    "item": 147,
+    "question": "What is the traditional Filipino game ‘agawan base’?",
+    "answer": "Agawan base is a team-based game where players try to capture the opponent’s base while protecting their own."
+  },
+  {
+    "item": 148,
+    "question": "Ano ang ‘Buwan ng Wika’ sa Pilipinas?",
+    "answer": "Ang Buwan ng Wika ay isang pagdiriwang tuwing Agosto upang itaguyod ang wikang Filipino at kultura."
+  },
+  {
+    "item": 149,
+    "question": "What is the significance of the ‘Taal Volcano’ in Batangas?",
+    "answer": "Taal Volcano is a cultural and natural landmark known for its scenic crater lake and active status."
+  },
+  {
+    "item": 150,
+    "question": "Sino ang kilalang bayani na tinaguriang ‘Hero of Tondo’?",
+    "answer": "Si Andres Bonifacio ang tinaguriang ‘Hero of Tondo’."
+  },
+  {
+    "item": 151,
+    "question": "What is the traditional Filipino dish ‘bistek Tagalog’?",
+    "answer": "Bistek Tagalog is a dish of beef slices marinated in soy sauce and calamansi, cooked with onions."
+  },
+  {
+    "item": 152,
+    "question": "Ano ang ‘Araw ng Kalayaan’ sa Pilipinas?",
+    "answer": "Ang Araw ng Kalayaan ay ipinagdiriwang tuwing Hunyo 12 bilang paggunita sa kalayaan mula sa Espanya noong 1898."
+  },
+  {
+    "item": 153,
+    "question": "What is the traditional Filipino practice of ‘araw-araw’?",
+    "answer": "Araw-araw refers to the daily communal or family prayers, often in a religious context."
+  },
+  {
+    "item": 154,
+    "question": "Ano ang ‘Mangyan’ tribe sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang Mangyan ay isang katutubong grupo sa Mindoro na kilala sa kanilang natatanging wika at sining."
+  },
+  {
+    "item": 155,
+    "question": "What is the significance of the ‘San Agustin Church’ in Manila?",
+    "answer": "San Agustin Church is a UNESCO World Heritage Site and the oldest stone church in the Philippines."
+  },
+  {
+    "item": 156,
+    "question": "Ano ang ‘bibingkahan’ sa konteksto ng pagkain?",
+    "answer": "Ang bibingkahan ay isang tradisyunal na lugar o stall kung saan inihanda at ibinebenta ang bibingka."
+  },
+  {
+    "item": 157,
+    "question": "What is the traditional Filipino game ‘kadang-kadang’?",
+    "answer": "Kadang-kadang is a game where players race on stilts made of bamboo."
+  },
+  {
+    "item": 158,
+    "question": "Sino ang kilalang pintor ng ‘The Parisian Life’?",
+    "answer": "Si Juan Luna ang pintor ng ‘The Parisian Life’."
+  },
+  {
+    "item": 159,
+    "question": "What is the significance of the ‘Roxas Boulevard’ in Manila?",
+    "answer": "Roxas Boulevard is a historic waterfront promenade in Manila, known for its cultural and scenic value."
+  },
+  {
+    "item": 160,
+    "question": "Ano ang ‘Hinilawod’ sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang Hinilawod ay isang epikong Visayan tungkol sa mga pakikipagsapalaran ng bayaning si Labaw Donggon."
+  },
+  {
+    "item": 161,
+    "question": "What is the traditional Filipino dish ‘bagoong’?",
+    "answer": "Bagoong is a fermented fish or shrimp paste used as a condiment or ingredient in Filipino cuisine."
+  },
+  {
+    "item": 162,
+    "question": "Ano ang ‘Regatta de Zamboanga’?",
+    "answer": "Ang Regatta de Zamboanga ay isang karera ng mga makukulay na bangka o vinta sa Zamboanga."
+  },
+  {
+    "item": 163,
+    "question": "What is the traditional Filipino practice of ‘panunuluyan’?",
+    "answer": "Panunuluyan is a Christmas tradition reenacting Mary and Joseph’s search for lodging in Bethlehem."
+  },
+  {
+    "item": 164,
+    "question": "Sino ang kilalang bayani na tinaguriang ‘Hukbalahap’ leader?",
+    "answer": "Si Luis Taruc ang kilalang lider ng Hukbalahap."
+  },
+  {
+    "item": 165,
+    "question": "What is the significance of the ‘Paoay Church’ in Ilocos Norte?",
+    "answer": "Paoay Church is a UNESCO World Heritage Site known for its earthquake-resistant baroque architecture."
+  },
+  {
+    "item": 166,
+    "question": "Ano ang ‘tinikling’ sa konteksto ng sayaw?",
+    "answer": "Ang tinikling ay isang tradisyunal na sayaw na gumagamit ng mga kawayan at ginagaya ang galaw ng ibon."
+  },
+  {
+    "item": 167,
+    "question": "What is the traditional Filipino dish ‘lugaw’?",
+    "answer": "Lugaw is a rice porridge often served with chicken, egg, or tripe."
+  },
+  {
+    "item": 168,
+    "question": "Ano ang ‘Bagobo’ tribe sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang Bagobo ay isang katutubong grupo sa Davao na kilala sa kanilang makulay na damit at sining."
+  },
+  {
+    "item": 169,
+    "question": "What is the significance of the ‘Corregidor Island’?",
+    "answer": "Corregidor Island is a historic site known for its role in WWII as a military stronghold."
+  },
+  {
+    "item": 170,
+    "question": "Sino ang kilalang manunulat ng ‘Doctrina Christiana’?",
+    "answer": "Ang Doctrina Christiana ay isinulat ng mga prayleng Espanyol, ang unang aklat na naiimprenta sa Pilipinas."
+  },
+  {
+    "item": 171,
+    "question": "What is the traditional Filipino game ‘sack race’?",
+    "answer": "The sack race, or sako race, is a traditional game where players race while inside a sack."
+  },
+  {
+    "item": 172,
+    "question": "Ano ang ‘Ati’ tribe sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang Ati ay isang katutubong grupo sa Panay, na kilala sa Ati-Atihan festival."
+  },
+  {
+    "item": 173,
+    "question": "What is the significance of the ‘Miagao Church’ in Iloilo?",
+    "answer": "Miagao Church is a UNESCO World Heritage Site known for its ornate baroque facade."
+  },
+  {
+    "item": 174,
+    "question": "Ano ang ‘suman sa ibos’ sa konteksto ng pagkain?",
+    "answer": "Ang suman sa ibos ay isang kakanin na gawa sa malagkit na bigas at niyog, balot sa dahon ng niyog."
+  },
+  {
+    "item": 175,
+    "question": "What is the traditional Filipino practice of ‘komedya’?",
+    "answer": "Komedya is a traditional Filipino theatrical play depicting historical or religious stories."
+  },
+  {
+    "item": 176,
+    "question": "Sino ang kilalang kompositor ng ‘Mutya ng Pasig’?",
+    "answer": "Si Nicanor Abelardo ang kompositor ng ‘Mutya ng Pasig’."
+  },
+  {
+    "item": 177,
+    "question": "What is the significance of the ‘Dambana ng Kagitingan’ in Bataan?",
+    "answer": "The Dambana ng Kagitingan is a memorial shrine in Bataan honoring WWII heroes."
+  },
+  {
+    "item": 178,
+    "question": "Ano ang ‘salu-salo’ sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang salu-salo ay isang tradisyunal na pagtitipon o piging kasama ang pamilya o kaibigan."
+  },
+  {
+    "item": 179,
+    "question": "What is the traditional Filipino dish ‘kwek-kwek’?",
+    "answer": "Kwek-kwek is a street food made of battered and fried quail eggs."
+  },
+  {
+    "item": 180,
+    "question": "Ano ang ‘Kawayan’ festival sa Abra?",
+    "answer": "Ang Kawayan festival ay isang pagdiriwang sa Abra na nagbibigay-pugay sa kawayan bilang mahalagang materyal."
+  },
+  {
+    "item": 181,
+    "question": "What is the significance of the ‘Aguinaldo Shrine’ in Kawit?",
+    "answer": "The Aguinaldo Shrine is where Emilio Aguinaldo declared Philippine independence in 1898."
+  },
+  {
+    "item": 182,
+    "question": "Ano ang ‘balagtasan’ sa konteksto ng panitikan?",
+    "answer": "Ang balagtasan ay isang tradisyunal na debate sa tula na pinangalanan kay Francisco Balagtas."
+  },
+  {
+    "item": 183,
+    "question": "What is the traditional Filipino game ‘bahay-bahayan’?",
+    "answer": "Bahay-bahayan is a role-playing game where children mimic family life and household roles."
+  },
+  {
+    "item": 184,
+    "question": "Sino ang kilalang bayani na tinaguriang ‘Hero of Cavite’?",
+    "answer": "Si Emilio Aguinaldo ang tinaguriang ‘Hero of Cavite’."
+  },
+  {
+    "item": 185,
+    "question": "What is the traditional Filipino dish ‘isaw’?",
+    "answer": "Isaw is a street food made from grilled pork or chicken intestines."
+  },
+  {
+    "item": 186,
+    "question": "Ano ang ‘Bolinao’ festival sa Pangasinan?",
+    "answer": "Ang Bolinao festival ay isang pagdiriwang ng kultura at kasaysayan ng Bolinao, Pangasinan."
+  },
+  {
+    "item": 187,
+    "question": "What is the significance of the ‘People Power Monument’?",
+    "answer": "The People Power Monument commemorates the 1986 EDSA Revolution in Quezon City."
+  },
+  {
+    "item": 188,
+    "question": "Ano ang ‘kundiman’ sa konteksto ng tradisyunal na musika?",
+    "answer": "Ang kundiman ay isang genre ng musika na nagpapahayag ng pag-ibig at nasyonalismo."
+  },
+  {
+    "item": 189,
+    "question": "What is the traditional Filipino practice of ‘tabo’?",
+    "answer": "Tabo is a traditional water dipper used for personal hygiene and cleaning in Filipino households."
+  },
+  {
+    "item": 190,
+    "question": "Sino ang kilalang pintor ng ‘Fruit Gatherer’?",
+    "answer": "Si Fernando Amorsolo ang pintor ng ‘Fruit Gatherer’."
+  },
+  {
+    "item": 191,
+    "question": "What is the traditional Filipino dish ‘ginataang bilo-bilo’?",
+    "answer": "Ginataang bilo-bilo is a dessert made of glutinous rice balls in coconut milk with fruits."
+  },
+  {
+    "item": 192,
+    "question": "Ano ang ‘Sagada’ sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang Sagada ay isang bayan sa Mountain Province na kilala sa hanging coffins at ecotourism."
+  },
+  {
+    "item": 193,
+    "question": "What is the significance of the ‘Battle of Mactan’?",
+    "answer": "The Battle of Mactan in 1521 was where Lapu-Lapu defeated Ferdinand Magellan, marking early Filipino resistance."
+  },
+  {
+    "item": 194,
+    "question": "Ano ang ‘santo’ sa konteksto ng tradisyunal na sining?",
+    "answer": "Ang santo ay isang inukit na imahe ng mga banal na ginagamit sa relihiyosong debosyon."
+  },
+  {
+    "item": 195,
+    "question": "What is the traditional Filipino game ‘taguan’?",
+    "answer": "Taguan is the Filipino version of hide-and-seek, played by children."
+  },
+  {
+    "item": 196,
+    "question": "Sino ang kilalang manunulat ng ‘Ang Huling Timawa’?",
+    "answer": "Si Jose Garcia Villa ang kilalang manunulat na nauugnay sa panitikan."
+  },
+  {
+    "item": 197,
+    "question": "What is the significance of the ‘Mount Apo’ in Davao?",
+    "answer": "Mount Apo is the highest peak in the Philippines and a sacred site for indigenous groups."
+  },
+  {
+    "item": 198,
+    "question": "Ano ang ‘tawsug’ tribe sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang Tausug ay isang katutubong grupo sa Sulu na kilala sa kanilang sining at maritime culture."
+  },
+  {
+    "item": 199,
+    "question": "What is the traditional Filipino dish ‘champorado’?",
+    "answer": "Champorado is a chocolate rice porridge often paired with dried fish."
+  },
+  {
+    "item": 200,
+    "question": "Ano ang ‘Panag-apoy’ festival sa Sagada?",
+    "answer": "Ang Panag-apoy festival ay isang tradisyon sa Sagada kung saan sinisindihan ang mga pine wood bilang paggunita sa mga yumaong mahal sa buhay."
+  },
+  {
+    "item": 201,
+    "question": "What is the significance of the 'Balangay' in precolonial Philippine history?",
+    "answer": "The Balangay was a wooden boat used by precolonial Filipinos for trade and migration, symbolizing maritime culture."
+  },
+  {
+    "item": 202,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa malagkit na bigas at pinakuluan sa dahon ng saging?",
+    "answer": "Ang suman sa lihiya ay isang kakanin na gawa sa malagkit na bigas, pinakuluan sa dahon ng saging at nilagyan ng latik."
+  },
+  {
+    "item": 203,
+    "question": "What is the 'Sinulog-Santo Niño Festival' in Cebu known for?",
+    "answer": "The Sinulog-Santo Niño Festival is known for its street dancing and religious devotion to the Child Jesus in Cebu."
+  },
+  {
+    "item": 204,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay' sa mga ninuno sa Pilipinas?",
+    "answer": "Ang pag-aalay ay ang tradisyon ng pag-aalok ng pagkain o bagay sa mga ninuno bilang paggalang sa kanilang espiritu."
+  },
+  {
+    "item": 205,
+    "question": "Who is the Filipino artist known for the painting 'The Blood Compact'?",
+    "answer": "Juan Luna is known for painting 'The Blood Compact,' depicting the Sandugo agreement."
+  },
+  {
+    "item": 206,
+    "question": "Ano ang tradisyunal na larong Pilipino na gumagamit ng mga kabibe sa isang tabla?",
+    "answer": "Ang sungka ay isang tradisyunal na larong Pilipino na gumagamit ng mga kabibe sa isang tabla."
+  },
+  {
+    "item": 207,
+    "question": "What is the traditional Filipino musical instrument 'octavina' used for?",
+    "answer": "The octavina is a stringed instrument used in rondalla ensembles to play traditional Filipino music."
+  },
+  {
+    "item": 208,
+    "question": "What is the significance of the 'Tabon Caves' in Palawan?",
+    "answer": "The Tabon Caves are an archaeological site known as the 'Cradle of Philippine Civilization,' containing ancient human remains."
+  },
+  {
+    "item": 209,
+    "question": "Ano ang ibig sabihin ng 'salawikain' sa kulturang Pilipino?",
+    "answer": "Ang salawikain ay mga tradisyunal na kasabihan na nagbibigay ng aral o payo sa buhay."
+  },
+  {
+    "item": 210,
+    "question": "Who is the Filipino content creator known for the 'Dalagang Pilipina' meme in 2025?",
+    "answer": "Mimiyuuuh is known for the viral 'Dalagang Pilipina' meme, parodying traditional maiden stereotypes."
+  },
+  {
+    "item": 211,
+    "question": "What is the significance of the 'Treaty of Paris' in Philippine history?",
+    "answer": "The Treaty of Paris in 1898 transferred the Philippines from Spanish to American control."
+  },
+  {
+    "item": 212,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa gata at sili, karaniwang mula sa Bicol?",
+    "answer": "Ang Bicol Express ay isang ulam na gawa sa gata, sili, at baboy, sikat sa Bicol."
+  },
+  {
+    "item": 213,
+    "question": "What is the 'Pintados-Kasadyaan Festival' in Leyte known for?",
+    "answer": "The Pintados-Kasadyaan Festival celebrates the tattooed warriors of Leyte with vibrant street dancing."
+  },
+  {
+    "item": 214,
+    "question": "Ano ang tradisyunal na praktis ng 'pagbibigay-pugay' sa mga nakatatanda?",
+    "answer": "Ang pagbibigay-pugay ay ang paggalang sa mga nakatatanda sa pamamagitan ng mga kilos tulad ng mano po."
+  },
+  {
+    "item": 215,
+    "question": "Who is the Filipino sculptor known for the 'UP Carillon' in Diliman?",
+    "answer": "Guillermo Tolentino created the UP Carillon, a landmark bell tower at the University of the Philippines."
+  },
+  {
+    "item": 216,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'Chinese garter'?",
+    "answer": "Ang Chinese garter ay isang larong Pilipino kung saan tumatalon ang mga manlalaro sa garter na unti-unting itinataas."
+  },
+  {
+    "item": 217,
+    "question": "What is the traditional Filipino musical genre 'harana' known for?",
+    "answer": "Harana is a serenading tradition where men sing love songs outside a woman’s house."
+  },
+  {
+    "item": 218,
+    "question": "What is the significance of the 'Callao Cave' in Cagayan?",
+    "answer": "Callao Cave is an archaeological site known for evidence of early human habitation in the Philippines."
+  },
+  {
+    "item": 219,
+    "question": "Ano ang 'bugtong' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang bugtong ay isang tradisyunal na palaisipan sa anyo ng tula na may sagot na hinulaan."
+  },
+  {
+    "item": 220,
+    "question": "What is the 'Keratin?!' meme popular in the Philippines in 2025?",
+    "answer": "The 'Keratin?!' meme, popularized by Maja Salvador and Fonz, involves repeating words for comedic effect on TikTok."
+  },
+  {
+    "item": 221,
+    "question": "Who led the 'Dagohoy Rebellion' in Bohol?",
+    "answer": "Francisco Dagohoy led the longest rebellion in Philippine history against Spanish rule in Bohol."
+  },
+  {
+    "item": 222,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa malagkit na bigas at gata, balot sa dahon ng niyog?",
+    "answer": "Ang suman sa ibos ay isang kakanin na gawa sa malagkit na bigas at gata, balot sa dahon ng niyog."
+  },
+  {
+    "item": 223,
+    "question": "What is the 'Higalaay Festival' in Cagayan de Oro known for?",
+    "answer": "The Higalaay Festival celebrates friendship and the feast of St. Augustine with street dancing and floats."
+  },
+  {
+    "item": 224,
+    "question": "Ano ang tradisyunal na praktis ng 'pagpapakain sa barangay' sa mga pista?",
+    "answer": "Ang pagpapakain sa barangay ay ang tradisyon ng paghahanda ng pagkain para sa buong komunidad sa mga pista."
+  },
+  {
+    "item": 225,
+    "question": "Who is the Filipino painter known for 'The Harvesters'?",
+    "answer": "Fernando Amorsolo painted 'The Harvesters,' depicting rural Filipino life."
+  },
+  {
+    "item": 226,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'juego de prenda'?",
+    "answer": "Ang juego de prenda ay isang larong Pilipino kung saan ang mga manlalaro ay nagbibigay ng prenda bilang parusa sa laro."
+  },
+  {
+    "item": 227,
+    "question": "What is the traditional Filipino instrument 'gandingan' used by the Maranao?",
+    "answer": "The gandingan is a set of large gongs used by the Maranao in kulintang music."
+  },
+  {
+    "item": 228,
+    "question": "What is the significance of the 'Puerto Princesa Subterranean River'?",
+    "answer": "The Puerto Princesa Subterranean River is a UNESCO World Heritage Site known for its underground river and biodiversity."
+  },
+  {
+    "item": 229,
+    "question": "Ano ang 'alamat' sa konteksto ng kulturang Pilipino?",
+    "answer": "Ang alamat ay isang tradisyunal na kwento na nagpapaliwanag ng pinagmulan ng mga bagay o lugar."
+  },
+  {
+    "item": 230,
+    "question": "Who is the Filipino content creator known for 'repeating words' gags in 2025?",
+    "answer": "Fonz (@ribsp) is known for the 'repeating words' gags, including 'Keratin?!', on TikTok in 2025."
+  },
+  {
+    "item": 231,
+    "question": "What is the significance of the 'Cavite Mutiny' in Philippine history?",
+    "answer": "The Cavite Mutiny of 1872 was a revolt by Filipino workers that fueled the Propaganda Movement."
+  },
+  {
+    "item": 232,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa isda at gata, karaniwang mula sa Quezon?",
+    "answer": "Ang ginataang tulingan ay isang ulam na gawa sa isda at gata, sikat sa Quezon."
+  },
+  {
+    "item": 233,
+    "question": "What is the 'T’nalak Festival' in South Cotabato known for?",
+    "answer": "The T’nalak Festival celebrates the T’boli weaving tradition with cultural performances and exhibits."
+  },
+  {
+    "item": 234,
+    "question": "Ano ang tradisyunal na praktis ng 'pagpapasalamat' sa mga ani?",
+    "answer": "Ang pagpapasalamat ay ang tradisyon ng pag-aalay ng pasasalamat sa mga diyos o espiritu para sa masaganang ani."
+  },
+  {
+    "item": 235,
+    "question": "Who is the Filipino artist known for the mural 'Angono Petroglyphs'?",
+    "answer": "The Angono Petroglyphs, though ancient, were popularized by modern artist Carlos 'Botong' Francisco."
+  },
+  {
+    "item": 236,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'sipa takraw'?",
+    "answer": "Ang sipa takraw ay isang larong Pilipino na gumagamit ng rattan ball sa isang net, katulad ng sepak takraw."
+  },
+  {
+    "item": 237,
+    "question": "What is the traditional Filipino musical instrument 'tongatong'?",
+    "answer": "The tongatong is a bamboo percussion instrument used by the Kalinga people."
+  },
+  {
+    "item": 238,
+    "question": "What is the significance of the 'Rizal Shrine' in Dapitan?",
+    "answer": "The Rizal Shrine in Dapitan is where Jose Rizal lived in exile, now a museum preserving his legacy."
+  },
+  {
+    "item": 239,
+    "question": "Ano ang 'tanaga' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang tanaga ay isang maikling tulang Pilipino na may apat na linya at pitong pantig bawat linya."
+  },
+  {
+    "item": 240,
+    "question": "What is the 'Budots' dance trend popular in the Philippines in 2025?",
+    "answer": "Budots is a viral dance trend with upbeat remixes, widely used on TikTok and in brand campaigns in 2025."
+  },
+  {
+    "item": 241,
+    "question": "Who was the leader of the 'Propaganda Movement' in the Philippines?",
+    "answer": "Jose Rizal was a key leader of the Propaganda Movement, advocating for reforms under Spanish rule."
+  },
+  {
+    "item": 242,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa kamote at gata?",
+    "answer": "Ang ginataang kamote ay isang ulam o dessert na gawa sa kamote at gata, sikat sa mga probinsya."
+  },
+  {
+    "item": 243,
+    "question": "What is the 'Bamboo Festival' in Maasin, Iloilo known for?",
+    "answer": "The Bamboo Festival celebrates bamboo craftsmanship with cultural performances in Maasin, Iloilo."
+  },
+  {
+    "item": 244,
+    "question": "Ano ang tradisyunal na praktis ng 'pagbabahagi' sa mga pista?",
+    "answer": "Ang pagbabahagi ay ang tradisyon ng pamamahagi ng pagkain o regalo sa komunidad sa mga pista."
+  },
+  {
+    "item": 245,
+    "question": "Who is the Filipino painter known for 'The Builders'?",
+    "answer": "Vicente Manansala painted 'The Builders,' a cubist depiction of Filipino laborers."
+  },
+  {
+    "item": 246,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'hwego de anilyo'?",
+    "answer": "Ang hwego de anilyo ay isang larong Pilipino kung saan ang mga manlalaro ay sumasakay sa bisikleta at naglalagay ng singsing sa poste."
+  },
+  {
+    "item": 247,
+    "question": "What is the traditional Filipino musical instrument 'kubing'?",
+    "answer": "The kubing is a bamboo jaw harp used by indigenous groups like the Mangyan."
+  },
+  {
+    "item": 248,
+    "question": "What is the significance of the 'Mount Banahaw' in Quezon?",
+    "answer": "Mount Banahaw is a sacred mountain and pilgrimage site in Quezon, revered in Filipino spirituality."
+  },
+  {
+    "item": 249,
+    "question": "Ano ang 'sarswela' sa konteksto ng sining ng Pilipino?",
+    "answer": "Ang sarswela ay isang tradisyunal na dula na may musika at sayaw, madalas tungkol sa pag-ibig at lipunan."
+  },
+  {
+    "item": 250,
+    "question": "Who is the Filipino P-pop group leading TikTok trends in 2025?",
+    "answer": "BINI is a leading P-pop group in 2025, driving TikTok trends with their music and choreography."
+  },
+  {
+    "item": 251,
+    "question": "What is the significance of the 'Battle of Leyte Gulf' in WWII?",
+    "answer": "The Battle of Leyte Gulf in 1944 was a major Allied victory, marking the return of U.S. forces to the Philippines."
+  },
+  {
+    "item": 252,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa balat ng baboy at gata?",
+    "answer": "Ang kare-kare ng balat ay isang ulam na gawa sa balat ng baboy, mani, at gata, sikat sa mga probinsya."
+  },
+  {
+    "item": 253,
+    "question": "What is the 'Manggahan Festival' in Guimaras known for?",
+    "answer": "The Manggahan Festival celebrates the mango harvest in Guimaras with cultural shows and food fairs."
+  },
+  {
+    "item": 254,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aani' sa mga probinsya?",
+    "answer": "Ang pag-aani ay ang tradisyon ng pagtitipon ng mga pananim tulad ng palay, na may ritwal ng pasasalamat."
+  },
+  {
+    "item": 255,
+    "question": "Who is the Filipino artist known for the painting 'Jeepney'?",
+    "answer": "Vicente Manansala painted 'Jeepney,' capturing the iconic Filipino vehicle in cubist style."
+  },
+  {
+    "item": 256,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'sipa bola'?",
+    "answer": "Ang sipa bola ay isang larong Pilipino kung saan sinisipa ang bola upang hindi ito bumagsak sa lupa."
+  },
+  {
+    "item": 257,
+    "question": "What is the traditional Filipino musical instrument 'agung'?",
+    "answer": "The agung is a large gong used in kulintang ensembles by Mindanao’s indigenous groups."
+  },
+  {
+    "item": 258,
+    "question": "What is the significance of the 'Hundred Islands' in Pangasinan?",
+    "answer": "The Hundred Islands is a national park in Pangasinan, known for its scenic limestone islands."
+  },
+  {
+    "item": 259,
+    "question": "Ano ang 'ambahan' sa konteksto ng panitikan ng Mangyan?",
+    "answer": "Ang ambahan ay isang tradisyunal na tula ng Mangyan na isinulat sa kawayan, madalas tungkol sa kalikasan."
+  },
+  {
+    "item": 260,
+    "question": "What is the 'Where’s the flowers?' meme from Drag Race Philippines in 2025?",
+    "answer": "The 'Where’s the flowers?' meme, from Mama Pao on Drag Race Philippines, humorously expresses disappointment."
+  },
+  {
+    "item": 261,
+    "question": "Who was the Filipino hero known for leading the 'Revolt of the Lakans'?",
+    "answer": "Lakan Dula led the Revolt of the Lakans in 1574 against Spanish colonization."
+  },
+  {
+    "item": 262,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa isda at kamatis, karaniwang mula sa Cavite?",
+    "answer": "Ang sinigang sa miso ay isang ulam na gawa sa isda, miso, at kamatis, sikat sa Cavite."
+  },
+  {
+    "item": 263,
+    "question": "What is the 'Binirayan Festival' in Antique known for?",
+    "answer": "The Binirayan Festival commemorates the legendary arrival of the Bornean datus in Antique."
+  },
+  {
+    "item": 264,
+    "question": "Ano ang tradisyunal na praktis ng 'pagpapakasal' sa mga katutubo?",
+    "answer": "Ang pagpapakasal sa mga katutubo ay madalas may ritwal tulad ng pag-aalay o sayaw bago ang kasal."
+  },
+  {
+    "item": 265,
+    "question": "Who is the Filipino sculptor known for the 'Bonifacio Monument'?",
+    "answer": "Guillermo Tolentino sculpted the Bonifacio Monument in Caloocan."
+  },
+  {
+    "item": 266,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'tatsing'?",
+    "answer": "Ang tatsing ay isang larong Pilipino na gumagamit ng mga lata bilang target para sa mga bato."
+  },
+  {
+    "item": 267,
+    "question": "What is the traditional Filipino musical instrument 'dabakan'?",
+    "answer": "The dabakan is a single-headed drum used in kulintang music by Mindanao’s indigenous groups."
+  },
+  {
+    "item": 268,
+    "question": "What is the significance of the 'Mount Pinatubo' in Pampanga?",
+    "answer": "Mount Pinatubo is known for its 1991 eruption and as a cultural landmark for the Aeta people."
+  },
+  {
+    "item": 269,
+    "question": "Ano ang 'awit' sa konteksto ng tradisyunal na panitikan?",
+    "answer": "Ang awit ay isang uri ng tulang naratibo na madalas inaawit at tungkol sa kabayanihan."
+  },
+  {
+    "item": 270,
+    "question": "Who is the Filipino content creator known for vlogs and brand deals in 2025?",
+    "answer": "Ivana Alawi is known for her vlogs and brand collaborations on YouTube in 2025."
+  },
+  {
+    "item": 271,
+    "question": "What is the significance of the 'Philippine-American War'?",
+    "answer": "The Philippine-American War (1899–1902) was a conflict following the U.S. annexation of the Philippines."
+  },
+  {
+    "item": 272,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa manok at gata, sikat sa Bicol?",
+    "answer": "Ang ginataang manok ay isang ulam na gawa sa manok at gata, sikat sa Bicol."
+  },
+  {
+    "item": 273,
+    "question": "What is the 'Ibalong Festival' in Legazpi known for?",
+    "answer": "The Ibalong Festival celebrates the Bicolano epic of Ibalong with street dancing and cultural shows."
+  },
+  {
+    "item": 274,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalaga sa barangay'?",
+    "answer": "Ang pag-aalaga sa barangay ay ang tradisyon ng pagtutulungan para sa kapakanan ng komunidad."
+  },
+  {
+    "item": 275,
+    "question": "Who is the Filipino painter known for 'The Mother’s Revenge'?",
+    "answer": "Juan Luna painted 'The Mother’s Revenge,' depicting a carabao defending its calf."
+  },
+  {
+    "item": 276,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'bati-cobra'?",
+    "answer": "Ang bati-cobra ay isang larong Pilipino kung saan hinahampas ang lata gamit ang tsinelas."
+  },
+  {
+    "item": 277,
+    "question": "What is the traditional Filipino musical instrument 'kulintang'?",
+    "answer": "The kulintang is a set of small gongs used in traditional music by Mindanao’s indigenous groups."
+  },
+  {
+    "item": 278,
+    "question": "What is the significance of the 'Siargao Island' in Surigao del Norte?",
+    "answer": "Siargao Island is a surfing capital and eco-tourism destination known for its waves and biodiversity."
+  },
+  {
+    "item": 279,
+    "question": "Ano ang 'balitao' sa konteksto ng musikang Pilipino?",
+    "answer": "Ang balitao ay isang tradisyunal na awitin at sayaw mula sa Visayas na tungkol sa pag-ibig."
+  },
+  {
+    "item": 280,
+    "question": "What is the significance of the P-pop group SB19 in 2025?",
+    "answer": "SB19 is a leading P-pop group in 2025, known for globalizing Filipino music through hits and TikTok trends."
+  },
+  {
+    "item": 281,
+    "question": "Who was the Filipino hero known as the 'Hero of Baler'?",
+    "answer": "Teodoro Patrocinio was known as the 'Hero of Baler' for his role in the Siege of Baler."
+  },
+  {
+    "item": 282,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa dugo ng manok at bigas?",
+    "answer": "Ang betamax ay isang street food na gawa sa coagulated chicken blood, iniihaw tulad ng barbecue."
+  },
+  {
+    "item": 283,
+    "question": "What is the 'Sineng Pambansa Festival' in Davao known for?",
+    "answer": "The Sineng Pambansa Festival showcases Filipino films and promotes local cinema in Davao."
+  },
+  {
+    "item": 284,
+    "question": "Ano ang tradisyunal na praktis ng 'pagbibinyag' sa Pilipinas?",
+    "answer": "Ang pagbibinyag ay ang tradisyon ng bautismo ng mga sanggol sa simbahang Katoliko."
+  },
+  {
+    "item": 285,
+    "question": "Who is the Filipino artist known for the painting 'Market Scene'?",
+    "answer": "Fernando Amorsolo painted 'Market Scene,' depicting vibrant Filipino market life."
+  },
+  {
+    "item": 286,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'shatong'?",
+    "answer": "Ang shatong ay isang larong Pilipino kung saan hinahampas ang isang patpat gamit ang isa pang patpat."
+  },
+  {
+    "item": 287,
+    "question": "What is the traditional Filipino musical instrument 'laúd'?",
+    "answer": "The laúd is a pear-shaped stringed instrument used in rondalla music."
+  },
+  {
+    "item": 288,
+    "question": "What is the significance of the 'Tubbataha Reefs' in Palawan?",
+    "answer": "Tubbataha Reefs is a UNESCO World Heritage Site and marine sanctuary known for its coral reefs."
+  },
+  {
+    "item": 289,
+    "question": "Ano ang 'dulang' sa konteksto ng sining ng Pilipino?",
+    "answer": "Ang dulang ay isang tradisyunal na anyo ng dula o teatro na nagpapakita ng mga kwento sa entablado."
+  },
+  {
+    "item": 290,
+    "question": "Who is the Filipino VTuber known for art streams in 2025?",
+    "answer": "KUNI (@kuniart_) is a Filipino VTuber known for art streams and YouTube content in 2025."
+  },
+  {
+    "item": 291,
+    "question": "What is the significance of the 'Manila Galleon Trade' in Philippine history?",
+    "answer": "The Manila Galleon Trade (1565–1815) was a trade route connecting the Philippines to Mexico, shaping colonial economy."
+  },
+  {
+    "item": 292,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa mais at gata?",
+    "answer": "Ang ginataang mais ay isang dessert o meryenda na gawa sa mais, gata, at asukal."
+  },
+  {
+    "item": 293,
+    "question": "What is the 'Anilao Diving Festival' in Batangas known for?",
+    "answer": "The Anilao Diving Festival promotes marine biodiversity and diving tourism in Batangas."
+  },
+  {
+    "item": 294,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-ugat' sa mga katutubo?",
+    "answer": "Ang pag-ugat ay ang tradisyon ng mga katutubo na gumagamit ng halamang gamot para sa paggaling."
+  },
+  {
+    "item": 295,
+    "question": "Who is the Filipino painter known for 'The Fishermen'?",
+    "answer": "Ang Kiukok painted 'The Fishermen,' a modernist depiction of Filipino life."
+  },
+  {
+    "item": 296,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'takip-silim'?",
+    "answer": "Ang takip-silim ay isang larong Pilipino na katulad ng taguan, nilalaro sa gabi."
+  },
+  {
+    "item": 297,
+    "question": "What is the traditional Filipino musical instrument 'palendag'?",
+    "answer": "The palendag is a bamboo flute used by the Maguindanao people."
+  },
+  {
+    "item": 298,
+    "question": "What is the significance of the 'Bohol Blood Compact Shrine'?",
+    "answer": "The Bohol Blood Compact Shrine commemorates the Sandugo between Sikatuna and Legazpi in 1565."
+  },
+  {
+    "item": 299,
+    "question": "Ano ang 'korridos' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang korridos ay isang uri ng tulang naratibo tungkol sa kabayanihan at pakikipagsapalaran."
+  },
+  {
+    "item": 300,
+    "question": "What is the significance of the P-pop group BGYO in 2025?",
+    "answer": "BGYO is a P-pop group known for their music and contributions to Filipino pop culture on TikTok in 2025."
+  },
+  {
+    "item": 301,
+    "question": "Who was the Filipino hero known for the 'Revolt of 1587–1588'?",
+    "answer": "Magalat led the Revolt of 1587–1588 in Cagayan against Spanish taxation."
+  },
+  {
+    "item": 302,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa baboy at sili, sikat sa Pampanga?",
+    "answer": "Ang sisig ay isang ulam na gawa sa baboy, sili, at calamansi, sikat sa Pampanga."
+  },
+  {
+    "item": 303,
+    "question": "What is the 'Diwatahan Festival' in Basilan known for?",
+    "answer": "The Diwatahan Festival celebrates the Yakan culture with traditional dances and crafts in Basilan."
+  },
+  {
+    "item": 304,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aararo' sa mga probinsya?",
+    "answer": "Ang pag-aararo ay ang tradisyon ng pagsasaka gamit ang kalabaw o araro bago magtanim."
+  },
+  {
+    "item": 305,
+    "question": "Who is the Filipino artist known for the painting 'Barrio Fiesta'?",
+    "answer": "Carlos 'Botong' Francisco painted 'Barrio Fiesta,' depicting a vibrant Filipino celebration."
+  },
+  {
+    "item": 306,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'palosebo'?",
+    "answer": "Ang palosebo ay isang larong Pilipino kung saan aakyatin ang makinis na poste upang makuha ang premyo."
+  },
+  {
+    "item": 307,
+    "question": "What is the traditional Filipino musical instrument 'babendil'?",
+    "answer": "The babendil is a small gong used in kulintang music by Mindanao’s indigenous groups."
+  },
+  {
+    "item": 308,
+    "question": "What is the significance of the 'El Nido' in Palawan?",
+    "answer": "El Nido is a premier eco-tourism destination in Palawan, known for its limestone cliffs and beaches."
+  },
+  {
+    "item": 309,
+    "question": "Ano ang 'balitaw' sa konteksto ng musikang Pilipino?",
+    "answer": "Ang balitaw ay isang tradisyunal na awitin at sayaw mula sa Visayas na nagpapakita ng debate sa pag-ibig."
+  },
+  {
+    "item": 310,
+    "question": "Who is the Filipino content creator known for lifestyle vlogs in 2025?",
+    "answer": "Small Laude is known for her lifestyle vlogs and humorous content on YouTube in 2025."
+  },
+  {
+    "item": 311,
+    "question": "What is the significance of the 'Katipunan’s Kartilya'?",
+    "answer": "The Kartilya ng Katipunan was a set of ethical guidelines for members, written by Emilio Jacinto."
+  },
+  {
+    "item": 312,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa puso ng saging?",
+    "answer": "Ang ginataang puso ng saging ay isang ulam na gawa sa puso ng saging at gata."
+  },
+  {
+    "item": 313,
+    "question": "What is the 'Coconut Festival' in San Pablo, Laguna known for?",
+    "answer": "The Coconut Festival celebrates the coconut industry with parades and cultural events in San Pablo, Laguna."
+  },
+  {
+    "item": 314,
+    "question": "Ano ang tradisyunal na praktis ng 'pagpapaligo sa kalabaw'?",
+    "answer": "Ang pagpapaligo sa kalabaw ay isang tradisyon sa mga probinsya upang panatilihing malusog ang kalabaw."
+  },
+  {
+    "item": 315,
+    "question": "Who is the Filipino sculptor known for the 'Salakot' sculpture?",
+    "answer": "Napoleon Abueva created the 'Salakot' sculpture, symbolizing Filipino heritage."
+  },
+  {
+    "item": 316,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'habulan'?",
+    "answer": "Ang habulan ay isang larong Pilipino kung saan hinahabol ng taya ang iba pang manlalaro."
+  },
+  {
+    "item": 317,
+    "question": "What is the traditional Filipino musical instrument 'hegalong'?",
+    "answer": "The hegalong is a two-stringed lute used by the T’boli people."
+  },
+  {
+    "item": 318,
+    "question": "What is the significance of the 'Boracay Island' in Aklan?",
+    "answer": "Boracay Island is a world-famous beach destination known for its white sand and tourism."
+  },
+  {
+    "item": 319,
+    "question": "Ano ang 'duplo' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang duplo ay isang tradisyunal na debate sa tula na ginanap sa mga lamay."
+  },
+  {
+    "item": 320,
+    "question": "What is the significance of the P-pop group KAIA in 2025?",
+    "answer": "KAIA is a P-pop group contributing to the rise of Filipino music on social media in 2025."
+  },
+  {
+    "item": 321,
+    "question": "Who was the Filipino hero known for the 'Tondo Conspiracy'?",
+    "answer": "Agustin de Legazpi was a leader in the Tondo Conspiracy of 1587–1588 against Spanish rule."
+  },
+  {
+    "item": 322,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa kalabasa at gata?",
+    "answer": "Ang ginataang kalabasa ay isang ulam na gawa sa kalabasa, gata, at hipon o isda."
+  },
+  {
+    "item": 323,
+    "question": "What is the 'Sinulog de Tanjay' in Negros Oriental known for?",
+    "answer": "The Sinulog de Tanjay is a festival honoring the Sto. Niño with street dancing in Negros Oriental."
+  },
+  {
+    "item": 324,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng bulaklak' sa simbahan?",
+    "answer": "Ang pag-aalay ng bulaklak ay isang tradisyon ng pag-aalok ng bulaklak sa Birhen Maria sa Flores de Mayo."
+  },
+  {
+    "item": 325,
+    "question": "Who is the Filipino artist known for the painting 'Madonna of the Slums'?",
+    "answer": "Vicente Manansala painted 'Madonna of the Slums,' depicting urban poverty."
+  },
+  {
+    "item": 326,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'piko'?",
+    "answer": "Ang piko ay isang larong Pilipino na katulad ng hopscotch, nilalaro sa isang grid."
+  },
+  {
+    "item": 327,
+    "question": "What is the traditional Filipino musical instrument 'tambuli'?",
+    "answer": "The tambuli is a trumpet made from carabao horn, used in rituals by indigenous groups."
+  },
+  {
+    "item": 328,
+    "question": "What is the significance of the 'Dapitan Plaza' in Zamboanga del Norte?",
+    "answer": "Dapitan Plaza is a historic site where Jose Rizal lived during his exile, now a cultural landmark."
+  },
+  {
+    "item": 329,
+    "question": "Ano ang 'kanta' sa konteksto ng tradisyunal na musika?",
+    "answer": "Ang kanta ay isang tradisyunal na awitin na nagpapahayag ng damdamin o kwento."
+  },
+  {
+    "item": 330,
+    "question": "What is the 'Bakit kasalanan ko?' meme popular in the Philippines in 2025?",
+    "answer": "The 'Bakit kasalanan ko?' meme, from Bea Alonzo’s film, humorously expresses unfair blame on TikTok."
+  },
+  {
+    "item": 331,
+    "question": "What is the significance of the 'Revolt of 1814' in Ilocos?",
+    "answer": "The Revolt of 1814 in Ilocos was a rebellion against Spanish forced labor and taxation."
+  },
+  {
+    "item": 332,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa malagkit na bigas at asukal?",
+    "answer": "Ang kalamay ay isang kakanin na gawa sa malagkit na bigas, gata, at asukal."
+  },
+  {
+    "item": 333,
+    "question": "What is the 'Santo Niño de Tondo Festival' known for?",
+    "answer": "The Santo Niño de Tondo Festival celebrates the Child Jesus with processions and dances in Manila."
+  },
+  {
+    "item": 334,
+    "question": "Ano ang tradisyunal na praktis ng 'pagpapalakas ng loob'?",
+    "answer": "Ang pagpapalakas ng loob ay ang tradisyon ng pagbibigay inspirasyon sa isa’t isa sa komunidad."
+  },
+  {
+    "item": 335,
+    "question": "Who is the Filipino sculptor known for the 'Sandugo Shrine'?",
+    "answer": "Napoleon Abueva sculpted the Sandugo Shrine in Bohol."
+  },
+  {
+    "item": 336,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'luksong baka'?",
+    "answer": "Ang luksong baka ay isang larong Pilipino kung saan tumatalon ang mga manlalaro sa ibabaw ng isang ‘baka’."
+  },
+  {
+    "item": 337,
+    "question": "What is the traditional Filipino musical instrument 'suling'?",
+    "answer": "The suling is a bamboo flute used in traditional music by various Philippine ethnic groups."
+  },
+  {
+    "item": 338,
+    "question": "What is the significance of the 'Apo Reef' in Mindoro?",
+    "answer": "Apo Reef is the world’s second-largest contiguous coral reef system and a protected marine park."
+  },
+  {
+    "item": 339,
+    "question": "Ano ang 'diona' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang diona ay isang tradisyunal na tula sa Visayas na ginagamit sa panliligaw."
+  },
+  {
+    "item": 340,
+    "question": "Who is the Filipino content creator known for comedy skits in 2025?",
+    "answer": "Maja Salvador is known for comedy skits and the 'Keratin?!' meme on TikTok in 2025."
+  },
+  {
+    "item": 341,
+    "question": "What is the significance of the 'First Mass in Limasawa'?",
+    "answer": "The First Mass in Limasawa in 1521 marked the introduction of Christianity to the Philippines."
+  },
+  {
+    "item": 342,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa munggo at hipon?",
+    "answer": "Ang ginataang munggo ay isang ulam na gawa sa munggo, gata, at hipon."
+  },
+  {
+    "item": 343,
+    "question": "What is the 'Araw ng Davao Festival' known for?",
+    "answer": "The Araw ng Davao Festival celebrates Davao’s founding with cultural performances and civic pride."
+  },
+  {
+    "item": 344,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng kandila'?",
+    "answer": "Ang pag-aalay ng kandila ay isang tradisyon ng pag-aalok ng kandila sa simbahan bilang panalangin."
+  },
+  {
+    "item": 345,
+    "question": "Who is the Filipino painter known for 'The Beggars'?",
+    "answer": "Ang Kiukok painted 'The Beggars,' reflecting social issues in modernist style."
+  },
+  {
+    "item": 346,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'sumpit'?",
+    "answer": "Ang sumpit ay isang larong Pilipino kung saan hinintay ang pagbagsak ng isang patpat sa lupa."
+  },
+  {
+    "item": 347,
+    "question": "What is the traditional Filipino musical instrument 'kudyapi'?",
+    "answer": "The kudyapi is a two-stringed lute used by indigenous groups like the Maranao."
+  },
+  {
+    "item": 348,
+    "question": "What is the significance of the 'Malacañang Palace' in Manila?",
+    "answer": "Malacañang Palace is the official residence and office of the Philippine president."
+  },
+  {
+    "item": 349,
+    "question": "Ano ang 'oyayi' sa konteksto ng tradisyunal na musika?",
+    "answer": "Ang oyayi ay isang tradisyunal na himig o awitin na ginagamit upang patulugin ang sanggol."
+  },
+  {
+    "item": 350,
+    "question": "What is the significance of the P-pop group Alamat in 2025?",
+    "answer": "Alamat is a P-pop group promoting regional languages and culture through music in 2025."
+  },
+  {
+    "item": 351,
+    "question": "Who was the Filipino hero known for the 'Palaris Revolt'?",
+    "answer": "Juan de la Cruz Palaris led the Palaris Revolt in Pangasinan against Spanish rule in 1762."
+  },
+  {
+    "item": 352,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa talong at bagoong?",
+    "answer": "Ang ensaladang talong ay isang ulam na gawa sa inihaw na talong at bagoong."
+  },
+  {
+    "item": 353,
+    "question": "What is the 'Kalilangan Festival' in General Santos known for?",
+    "answer": "The Kalilangan Festival celebrates the founding of General Santos with cultural dances and events."
+  },
+  {
+    "item": 354,
+    "question": "Ano ang tradisyunal na praktis ng 'pagpapakita ng galang' sa mga ninuno?",
+    "answer": "Ang pagpapakita ng galang ay ang tradisyon ng paggalang sa mga ninuno sa pamamagitan ng mga ritwal."
+  },
+  {
+    "item": 355,
+    "question": "Who is the Filipino artist known for the painting 'The Fruit Vendor'?",
+    "answer": "Fernando Amorsolo painted 'The Fruit Vendor,' showcasing Filipino rural life."
+  },
+  {
+    "item": 356,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'batuhang bola'?",
+    "answer": "Ang batuhang bola ay isang larong Pilipino kung saan hinintay ang pagtama ng bola sa kalaban."
+  },
+  {
+    "item": 357,
+    "question": "What is the traditional Filipino musical instrument 'tumpong'?",
+    "answer": "The tumpong is a bamboo flute used by the Mangyan people."
+  },
+  {
+    "item": 358,
+    "question": "What is the significance of the 'Sagay Marine Reserve' in Negros Occidental?",
+    "answer": "The Sagay Marine Reserve is a protected area known for its coral reefs and marine biodiversity."
+  },
+  {
+    "item": 359,
+    "question": "Ano ang 'siday' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang siday ay isang tradisyunal na tula sa Waray na madalas inaawit sa mga okasyon."
+  },
+  {
+    "item": 360,
+    "question": "Who is the Filipino content creator known for 'Drag Race Philippines' memes in 2025?",
+    "answer": "Mama Pao is known for the 'Where’s the flowers?' meme from Drag Race Philippines in 2025."
+  },
+  {
+    "item": 361,
+    "question": "What is the significance of the 'Katipunan’s Decalogue'?",
+    "answer": "The Decalogue was a set of moral duties for Katipunan members, written by Andres Bonifacio."
+  },
+  {
+    "item": 362,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa okra at bagoong?",
+    "answer": "Ang pinakbet na may okra ay isang ulam na gawa sa okra, bagoong, at iba pang gulay."
+  },
+  {
+    "item": 363,
+    "question": "What is the 'Bantayog Festival' in Isabela known for?",
+    "answer": "The Bantayog Festival celebrates the heroism of Isabela’s people with cultural performances."
+  },
+  {
+    "item": 364,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng pagkain' sa mga ninuno?",
+    "answer": "Ang pag-aalay ng pagkain ay isang tradisyon ng pag-aalok ng pagkain sa mga ninuno bilang paggalang."
+  },
+  {
+    "item": 365,
+    "question": "Who is the Filipino sculptor known for the 'Nine Muses'?",
+    "answer": "Napoleon Abueva sculpted the 'Nine Muses,' a cultural landmark at UP Diliman."
+  },
+  {
+    "item": 366,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'piko sa dagat'?",
+    "answer": "Ang piko sa dagat ay isang bersyon ng piko na nilalaro malapit sa tubig o dalampasigan."
+  },
+  {
+    "item": 367,
+    "question": "What is the traditional Filipino musical instrument 'gabbang'?",
+    "answer": "The gabbang is a bamboo xylophone used by the Tausug and Sama people."
+  },
+  {
+    "item": 368,
+    "question": "What is the significance of the 'Baler Aurora' in Philippine history?",
+    "answer": "Baler Aurora is known for the Siege of Baler, a key event in the Philippine-American War."
+  },
+  {
+    "item": 369,
+    "question": "Ano ang 'kantahing bayan' sa konteksto ng musikang Pilipino?",
+    "answer": "Ang kantahing bayan ay mga tradisyunal na awitin ng mga Pilipino na nagpapahayag ng kultura."
+  },
+  {
+    "item": 370,
+    "question": "What is the significance of the P-pop group G22 in 2025?",
+    "answer": "G22 is a P-pop group gaining popularity in 2025 for their music and social media presence."
+  },
+  {
+    "item": 371,
+    "question": "Who was the Filipino hero known for the 'Revolt of 1663'?",
+    "answer": "Francisco Maniago led the Revolt of 1663 in Pampanga against Spanish forced labor."
+  },
+  {
+    "item": 372,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa talaba at gata?",
+    "answer": "Ang ginataang tahong ay isang ulam na gawa sa talaba at gata, sikat sa mga baybayin."
+  },
+  {
+    "item": 373,
+    "question": "What is the 'Ati-Atihan sa Kalibo' festival known for?",
+    "answer": "The Ati-Atihan sa Kalibo festival is known for its vibrant street dancing and devotion to the Sto. Niño."
+  },
+  {
+    "item": 374,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng prutas' sa mga pista?",
+    "answer": "Ang pag-aalay ng prutas ay isang tradisyon ng pag-aalok ng prutas sa simbahan o altar sa mga pista."
+  },
+  {
+    "item": 375,
+    "question": "Who is the Filipino painter known for 'The Gleaners'?",
+    "answer": "Fernando Amorsolo painted 'The Gleaners,' depicting rural Filipino women."
+  },
+  {
+    "item": 376,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'langit-lupa'?",
+    "answer": "Ang langit-lupa ay isang larong Pilipino kung saan hinahabol ng taya ang mga manlalaro sa ‘lupa’."
+  },
+  {
+    "item": 377,
+    "question": "What is the traditional Filipino musical instrument 'saluroy'?",
+    "answer": "The saluroy is a bamboo polychordal zither used by the T’boli people."
+  },
+  {
+    "item": 378,
+    "question": "What is the significance of the 'Baguio City' in Philippine culture?",
+    "answer": "Baguio City is the summer capital, known for its cool climate and cultural festivals like Panagbenga."
+  },
+  {
+    "item": 379,
+    "question": "Ano ang 'balangkas' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang balangkas ay isang tradisyunal na tula na ginagamit sa mga ritwal o kwento."
+  },
+  {
+    "item": 380,
+    "question": "What is the 'P-pop' music trend in the Philippines in 2025?",
+    "answer": "P-pop is a Filipino pop music genre led by groups like BINI and SB19, popular on TikTok in 2025."
+  },
+  {
+    "item": 381,
+    "question": "What is the significance of the 'Hukbalahap Rebellion'?",
+    "answer": "The Hukbalahap Rebellion (1942–1954) was a peasant uprising against Japanese occupation and landlords."
+  },
+  {
+    "item": 382,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa pusit at gata?",
+    "answer": "Ang ginataang pusit ay isang ulam na gawa sa pusit, gata, at mga gulay."
+  },
+  {
+    "item": 383,
+    "question": "What is the 'Pailah Festival' in Bohol known for?",
+    "answer": "The Pailah Festival celebrates Bohol’s heritage with street dancing and cultural exhibits."
+  },
+  {
+    "item": 384,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng manok' sa mga ritwal?",
+    "answer": "Ang pag-aalay ng manok ay isang tradisyon ng mga katutubo na nag-aalok ng manok sa mga espiritu."
+  },
+  {
+    "item": 385,
+    "question": "Who is the Filipino artist known for the painting 'Candle Vendors'?",
+    "answer": "Vicente Manansala painted 'Candle Vendors,' depicting Filipino religious life."
+  },
+  {
+    "item": 386,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'sipaan'?",
+    "answer": "Ang sipaan ay isang larong Pilipino kung saan sinisipa ang isang bola o bagay upang hindi ito bumagsak."
+  },
+  {
+    "item": 387,
+    "question": "What is the traditional Filipino musical instrument 'buktot'?",
+    "answer": "The buktot is a four-stringed instrument used by the Visayan people."
+  },
+  {
+    "item": 388,
+    "question": "What is the significance of the 'Mount Samat' in Bataan?",
+    "answer": "Mount Samat is home to the Dambana ng Kagitingan, a WWII memorial shrine."
+  },
+  {
+    "item": 389,
+    "question": "Ano ang 'balete' sa konteksto ng folklor ng Pilipino?",
+    "answer": "Ang balete ay isang puno na itinuturing na tahanan ng mga espiritu sa folklor ng Pilipino."
+  },
+  {
+    "item": 390,
+    "question": "Who is the Filipino content creator known for 'Budots' remixes in 2025?",
+    "answer": "DJ Love is known for creating viral 'Budots' remixes on TikTok in 2025."
+  },
+  {
+    "item": 391,
+    "question": "What is the significance of the 'Commonwealth Act No. 1'?",
+    "answer": "Commonwealth Act No. 1, or the National Defense Act of 1935, established the Philippine Army."
+  },
+  {
+    "item": 392,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa malunggay at gata?",
+    "answer": "Ang ginataang malunggay ay isang ulam na gawa sa dahon ng malunggay at gata."
+  },
+  {
+    "item": 393,
+    "question": "What is the 'Hinugyaw Festival' in Koronadal known for?",
+    "answer": "The Hinugyaw Festival celebrates South Cotabato’s culture with street dancing and agricultural exhibits."
+  },
+  {
+    "item": 394,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng bigas'?",
+    "answer": "Ang pag-aalay ng bigas ay isang tradisyon ng pag-aalok ng bigas sa mga diyos o espiritu."
+  },
+  {
+    "item": 395,
+    "question": "Who is the Filipino sculptor known for the 'Triumph of Science over Death'?",
+    "answer": "Guillermo Tolentino sculpted 'Triumph of Science over Death,' a landmark at UP Manila."
+  },
+  {
+    "item": 396,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'taya-tayaan'?",
+    "answer": "Ang taya-tayaan ay isang larong Pilipino kung saan pumipili ng taya sa pamamagitan ng kanta o bilang."
+  },
+  {
+    "item": 397,
+    "question": "What is the traditional Filipino musical instrument 'kubing'?",
+    "answer": "The kubing is a bamboo jaw harp used by various indigenous groups in the Philippines."
+  },
+  {
+    "item": 398,
+    "question": "What is the significance of the 'Carcar City' in Cebu?",
+    "answer": "Carcar City is known for its Spanish colonial heritage and traditional delicacies like chicharon."
+  },
+  {
+    "item": 399,
+    "question": "Ano ang 'kudlong' sa konteksto ng musikang Pilipino?",
+    "answer": "Ang kudlong ay isang dalawang-string na instrumento na ginagamit ng mga katutubo sa Mindanao."
+  },
+  {
+    "item": 400,
+    "question": "What is the significance of the P-pop group VXON in 2025?",
+    "answer": "VXON is a P-pop group contributing to the Filipino music scene with viral TikTok content in 2025."
+  },
+  {
+    "item": 401,
+    "question": "Who was the Filipino hero known for the 'Sumuroy Revolt'?",
+    "answer": "Juan Ponce Sumuroy led the Sumuroy Revolt in 1649 against Spanish forced labor in Samar."
+  },
+  {
+    "item": 402,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa manok at tamarindo?",
+    "answer": "Ang sinampalukang manok ay isang ulam na gawa sa manok at tamarindo, sikat sa mga probinsya."
+  },
+  {
+    "item": 403,
+    "question": "What is the 'Bangus Festival' in Dagupan known for?",
+    "answer": "The Bangus Festival celebrates the milkfish industry in Dagupan with street dancing and culinary events."
+  },
+  {
+    "item": 404,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng bulaklak sa Birhen'?",
+    "answer": "Ang pag-aalay ng bulaklak sa Birhen ay isang tradisyon ng pag-aalok ng bulaklak sa Birhen Maria."
+  },
+  {
+    "item": 405,
+    "question": "Who is the Filipino painter known for 'The Cockfight'?",
+    "answer": "Fernando Amorsolo painted 'The Cockfight,' depicting a traditional Filipino pastime."
+  },
+  {
+    "item": 406,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'pitik bulag'?",
+    "answer": "Ang pitik bulag ay isang larong Pilipino kung saan ang taya ay may blindfold at sumusubok na mahuli ang iba."
+  },
+  {
+    "item": 407,
+    "question": "What is the traditional Filipino musical instrument 'gandang'?",
+    "answer": "The gandang is a double-headed drum used in traditional music by Mindanao’s indigenous groups."
+  },
+  {
+    "item": 408,
+    "question": "What is the significance of the 'Vinzons Shrine' in Camarines Norte?",
+    "answer": "The Vinzons Shrine honors Wenceslao Vinzons, a WWII hero and guerrilla leader."
+  },
+  {
+    "item": 409,
+    "question": "Ano ang 'balak' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang balak ay isang tradisyunal na tula sa Cebuano na nagpapahayag ng damdamin."
+  },
+  {
+    "item": 410,
+    "question": "What is the significance of the 'Drag Race Philippines' in 2025 pop culture?",
+    "answer": "Drag Race Philippines in 2025 is a cultural phenomenon, spawning memes like 'Where’s the flowers?'."
+  },
+  {
+    "item": 411,
+    "question": "What is the significance of the 'EDSA Dos' in Philippine history?",
+    "answer": "EDSA Dos in 2001 was a people’s movement that led to the ouster of President Joseph Estrada."
+  },
+  {
+    "item": 412,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa baboy at atay, sikat sa Ilocos?",
+    "answer": "Ang bagnet ay isang ulam na gawa sa malutong na baboy, sikat sa Ilocos."
+  },
+  {
+    "item": 413,
+    "question": "What is the 'Tuna Festival' in General Santos known for?",
+    "answer": "The Tuna Festival celebrates the tuna industry in General Santos with parades and seafood fairs."
+  },
+  {
+    "item": 414,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng kandila sa simbahan'?",
+    "answer": "Ang pag-aalay ng kandila sa simbahan ay isang tradisyon ng panalangin para sa kaligtasan o pasasalamat."
+  },
+  {
+    "item": 415,
+    "question": "Who is the Filipino artist known for the painting 'Fishermen at Sea'?",
+    "answer": "Ang Kiukok painted 'Fishermen at Sea,' a modernist take on Filipino fishing life."
+  },
+  {
+    "item": 416,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'sack race'?",
+    "answer": "Ang sack race ay isang larong Pilipino kung saan tumatakbo ang mga manlalaro sa loob ng sako."
+  },
+  {
+    "item": 417,
+    "question": "What is the traditional Filipino musical instrument 'banduria'?",
+    "answer": "The banduria is a 14-stringed instrument used in rondalla ensembles."
+  },
+  {
+    "item": 418,
+    "question": "What is the significance of the 'Chocolate Hills' in Bohol?",
+    "answer": "The Chocolate Hills in Bohol are a geological wonder and UNESCO tentative site, known for their unique formation."
+  },
+  {
+    "item": 419,
+    "question": "Ano ang 'balitaw' sa konteksto ng tradisyunal na sayaw?",
+    "answer": "Ang balitaw ay isang tradisyunal na sayaw at awitin mula sa Visayas na nagpapakita ng ligawan."
+  },
+  {
+    "item": 420,
+    "question": "What is the significance of TikTok in Filipino pop culture in 2025?",
+    "answer": "TikTok in 2025 drives Filipino pop culture with viral dances, memes, and P-pop trends."
+  },
+  {
+    "item": 421,
+    "question": "Who was the Filipino hero known for the 'Revolt of 1744'?",
+    "answer": "Diego Silang led the Revolt of 1744 in Ilocos against Spanish oppression."
+  },
+  {
+    "item": 422,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa baboy at saging?",
+    "answer": "Ang pochero ay isang ulam na gawa sa baboy, saging, at iba pang gulay."
+  },
+  {
+    "item": 423,
+    "question": "What is the 'Panagyaman Festival' in Nueva Vizcaya known for?",
+    "answer": "The Panagyaman Festival celebrates Nueva Vizcaya’s agricultural heritage with cultural events."
+  },
+  {
+    "item": 424,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng itlog' sa mga ritwal?",
+    "answer": "Ang pag-aalay ng itlog ay isang tradisyon ng mga katutubo bilang simbolo ng buhay o pagpapala."
+  },
+  {
+    "item": 425,
+    "question": "Who is the Filipino sculptor known for the 'Sunburst' sculpture?",
+    "answer": "Eduardo Castrillo created the 'Sunburst' sculpture, a cultural landmark in Manila."
+  },
+  {
+    "item": 426,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'bahay-bahayan'?",
+    "answer": "Ang bahay-bahayan ay isang larong Pilipino kung saan ginagaya ng mga bata ang buhay-pamilya."
+  },
+  {
+    "item": 427,
+    "question": "What is the traditional Filipino musical instrument 'kudyapiq'?",
+    "answer": "The kudyapiq is a two-stringed lute used by the Maguindanao people."
+  },
+  {
+    "item": 428,
+    "question": "What is the significance of the 'Ifugao Rice Terraces'?",
+    "answer": "The Ifugao Rice Terraces are a UNESCO World Heritage Site, showcasing ancient agricultural engineering."
+  },
+  {
+    "item": 429,
+    "question": "Ano ang 'dalit' sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang dalit ay isang tradisyunal na tula sa Tagalog na madalas tungkol sa relihiyon o damdamin."
+  },
+  {
+    "item": 430,
+    "question": "What is the significance of YouTube vlogs in Filipino pop culture in 2025?",
+    "answer": "YouTube vlogs in 2025, led by creators like Ivana Alawi, shape Filipino lifestyle and entertainment trends."
+  },
+  {
+    "item": 431,
+    "question": "What is the significance of the 'EDSA Tres' in Philippine history?",
+    "answer": "EDSA Tres in 2001 was a protest movement supporting Joseph Estrada after his ouster."
+  },
+  {
+    "item": 432,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa manok at bawang?",
+    "answer": "Ang chicken inasal ay isang ulam na gawa sa inihaw na manok na may bawang at iba pang pampalasa."
+  },
+  {
+    "item": 433,
+    "question": "What is the 'Kadayawan sa Davao' festival known for?",
+    "answer": "The Kadayawan sa Davao festival celebrates indigenous culture and bountiful harvest with street dancing."
+  },
+  {
+    "item": 434,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng alak' sa mga ritwal?",
+    "answer": "Ang pag-aalay ng alak ay isang tradisyon ng mga katutubo na nag-aalok ng alak sa mga espiritu."
+  },
+  {
+    "item": 435,
+    "question": "Who is the Filipino painter known for 'The Last Supper'?",
+    "answer": "Joey Velasco painted 'The Last Supper,' depicting street children in a religious scene."
+  },
+  {
+    "item": 436,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'sipa takraw'?",
+    "answer": "Ang sipa takraw ay isang larong Pilipino na gumagamit ng rattan ball at net, katulad ng volleyball."
+  },
+  {
+    "item": 437,
+    "question": "What is the traditional Filipino musical instrument 'sluday'?",
+    "answer": "The sluday is a bamboo zither used by the T’boli people."
+  },
+  {
+    "item": 438,
+    "question": "What is the significance of the 'Fort Pilar' in Zamboanga?",
+    "answer": "Fort Pilar is a historic Spanish fortress in Zamboanga, now a museum and cultural site."
+  },
+  {
+    "item": 439,
+    "question": "Ano ang 'balitaw' sa konteksto ng tradisyunal na musika?",
+    "answer": "Ang balitaw ay isang tradisyunal na awitin at sayaw mula sa Visayas na tungkol sa pag-ibig."
+  },
+  {
+    "item": 440,
+    "question": "What is the significance of Spotify playlists in Filipino pop culture in 2025?",
+    "answer": "Spotify playlists in 2025 promote P-pop and Filipino music, featuring groups like BINI and SB19."
+  },
+  {
+    "item": 441,
+    "question": "Who was the Filipino hero known for the 'Tamblot Uprising'?",
+    "answer": "Tamblot led the Tamblot Uprising in Bohol in 1621 against Spanish colonization."
+  },
+  {
+    "item": 442,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa baboy at beans?",
+    "answer": "Ang pork and beans ay isang ulam na gawa sa baboy at beans, inspirasyon mula sa kolonyal na panahon."
+  },
+  {
+    "item": 443,
+    "question": "What is the 'Sambalilo Festival' in Pampanga known for?",
+    "answer": "The Sambalilo Festival celebrates Pampanga’s hat-making tradition with cultural performances."
+  },
+  {
+    "item": 444,
+    "question": "Ano ang tradisyunal na praktis ng 'pag-aalay ng bulaklak sa ninuno'?",
+    "answer": "Ang pag-aalay ng bulaklak sa ninuno ay isang tradisyon ng paggalang sa mga yumaong kamag-anak."
+  },
+  {
+    "item": 445,
+    "question": "Who is the Filipino painter known for 'The Prodigal Son'?",
+    "answer": "Dominador Castañeda painted 'The Prodigal Son,' a religious artwork."
+  },
+  {
+    "item": 446,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang 'sipa'?",
+    "answer": "Ang sipa ay isang larong Pilipino kung saan sinisipa ang rattan ball upang hindi ito bumagsak."
+  },
+  {
+    "item": 447,
+    "question": "What is the traditional Filipino musical instrument 'tongali'?",
+    "answer": "The tongali is a nose flute used by the Kalinga and other Cordillera groups."
+  },
+  {
+    "item": 448,
+    "question": "What is the significance of the 'Laoag City' in Ilocos Norte?",
+    "answer": "Laoag City is a cultural and historical hub, home to landmarks like the Sinking Bell Tower."
+  },
+  {
+    "item": 449,
+    "question": "Ano ang 'kanta' sa konteksto ng tradisyunal na musika?",
+    "answer": "Ang kanta ay isang tradisyunal na awitin na nagpapahayag ng damdamin o kultura."
+  },
+  {
+    "item": 450,
+    "question": "What is the significance of Filipino influencers on Instagram in 2025?",
+    "answer": "Filipino influencers on Instagram in 2025 shape fashion, lifestyle, and cultural trends."
+  },
+    {
+    "item": 451,
+    "question": "What is the traditional Filipino practice of 'pagbabayad-utang'?",
+    "answer": "Pagbabayad-utang refers to the cultural practice of repaying debts, often tied to the value of 'utang na loob' or gratitude."
+  },
+  {
+    "item": 452,
+    "question": "Ano ang ‘Santo Entierro’ sa konteksto ng Semana Santa?",
+    "answer": "Ang Santo Entierro ay ang imahe ng namatay na si Hesukristo na ginagamit sa prusisyon tuwing Biyernes Santo."
+  },
+  {
+    "item": 453,
+    "question": "What is the significance of the 'Bamboo Bridge' in Bohol?",
+    "answer": "The Bamboo Bridge, or Tigbao Hanging Bridge, is a tourist attraction in Bohol symbolizing local ingenuity."
+  },
+  {
+    "item": 454,
+    "question": "Sino ang kilalang manunulat ng ‘Ang Dapat Mabatid ng mga Tagalog’?",
+    "answer": "Si Andres Bonifacio ang nagsulat ng ‘Ang Dapat Mabatid ng mga Tagalog,’ isang makabayang sanaysay."
+  },
+  {
+    "item": 455,
+    "question": "What is the traditional Filipino dish ‘sinangag’?",
+    "answer": "Sinangag is garlic fried rice, a staple breakfast dish often paired with dried fish or eggs."
+  },
+  {
+    "item": 456,
+    "question": "Ano ang ‘Pintakasi’ festival sa Quezon City?",
+    "answer": "Ang Pintakasi festival ay isang pagdiriwang ng patron ng Quezon City, ang Sto. Niño, na may prusisyon at sayawan."
+  },
+  {
+    "item": 457,
+    "question": "What is the traditional Filipino game ‘dampa’?",
+    "answer": "Dampa is a game where players flick rubber bands to move them across a marked area."
+  },
+  {
+    "item": 458,
+    "question": "Ano ang kahulugan ng ‘pagpapakumbaba’ sa kulturang Pilipino?",
+    "answer": "Ang pagpapakumbaba ay ang pagpapakita ng kababaang-loob at paggalang sa iba, isang mahalagang halaga sa kultura."
+  },
+  {
+    "item": 459,
+    "question": "What is the significance of the ‘Puerto Galera’ in Mindoro?",
+    "answer": "Puerto Galera is a UNESCO-recognized biosphere reserve known for its beaches and marine biodiversity."
+  },
+  {
+    "item": 460,
+    "question": "Sino ang kilalang kompositor ng ‘Ang Maya’?",
+    "answer": "Si Jose Estella ang kompositor ng ‘Ang Maya,’ isang klasikong awiting Pilipino."
+  },
+  {
+    "item": 461,
+    "question": "What is the traditional Filipino dish ‘ginisang munggo’?",
+    "answer": "Ginisang munggo is a mung bean stew cooked with pork, shrimp, or fish and leafy greens."
+  },
+  {
+    "item": 462,
+    "question": "Ano ang ‘Buwan ng Kasaysayan’ sa Pilipinas?",
+    "answer": "Ang Buwan ng Kasaysayan ay ipinagdiriwang tuwing Pebrero upang gunitain ang makasaysayang mga pangyayari."
+  },
+  {
+    "item": 463,
+    "question": "What is the traditional Filipino musical instrument ‘agung’?",
+    "answer": "The agung is a large gong used in kulintang ensembles by Mindanao’s indigenous groups."
+  },
+  {
+    "item": 464,
+    "question": "What is the significance of the ‘Callao Cave’ in Cagayan?",
+    "answer": "Callao Cave is an archaeological site known for evidence of early human habitation in the Philippines."
+  },
+  {
+    "item": 465,
+    "question": "Ano ang ‘tanaga’ sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang tanaga ay isang maikling tula na may apat na linya at pitong pantig bawat linya."
+  },
+  {
+    "item": 466,
+    "question": "Who is the Filipino content creator known for food vlogs in 2025?",
+    "answer": "Erwan Heussaff is known for his food vlogs and culinary content on YouTube in 2025."
+  },
+  {
+    "item": 467,
+    "question": "What is the significance of the ‘Battle of Bessang Pass’?",
+    "answer": "The Battle of Bessang Pass in 1945 was a key WWII victory for Filipino and American forces against the Japanese."
+  },
+  {
+    "item": 468,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa isda at suka?",
+    "answer": "Ang paksiw na isda ay isang ulam na gawa sa isda na niluto sa suka at bawang."
+  },
+  {
+    "item": 469,
+    "question": "What is the ‘Bambanti Festival’ in Isabela known for?",
+    "answer": "The Bambanti Festival celebrates Isabela’s agricultural heritage with scarecrow-inspired displays and dances."
+  },
+  {
+    "item": 470,
+    "question": "Ano ang tradisyunal na praktis ng ‘pag-aalay ng pagkain sa altar’?",
+    "answer": "Ang pag-aalay ng pagkain sa altar ay isang tradisyon ng pag-aalok ng pagkain bilang pasasalamat sa mga banal."
+  },
+  {
+    "item": 471,
+    "question": "Who is the Filipino painter known for ‘The Harvesters’?",
+    "answer": "Fabian de la Rosa painted ‘The Harvesters,’ depicting rural Filipino life."
+  },
+  {
+    "item": 472,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang ‘juego de anillo’?",
+    "answer": "Ang juego de anillo ay isang larong Pilipino kung saan sinisiklot ang singsing gamit ang patpat sakay ng kabayo."
+  },
+  {
+    "item": 473,
+    "question": "What is the traditional Filipino musical instrument ‘tongatong’?",
+    "answer": "The tongatong is a bamboo percussion instrument used by the Kalinga people."
+  },
+  {
+    "item": 474,
+    "question": "What is the significance of the ‘Luneta Park’ in Manila?",
+    "answer": "Luneta Park, or Rizal Park, is a historic site where Jose Rizal was executed, symbolizing Filipino nationalism."
+  },
+  {
+    "item": 475,
+    "question": "Ano ang ‘bugtong’ sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang bugtong ay isang tradisyunal na palaisipan sa anyo ng tula na may sagot na hinuhulaan."
+  },
+  {
+    "item": 476,
+    "question": "What is the significance of the P-pop group BINI in 2025?",
+    "answer": "BINI is a leading P-pop group in 2025, known for their viral hits and TikTok dance challenges."
+  },
+  {
+    "item": 477,
+    "question": "Who was the Filipino hero known for the ‘Dagohoy Rebellion’?",
+    "answer": "Francisco Dagohoy led the longest revolt in Philippine history (1744–1829) against Spanish rule in Bohol."
+  },
+  {
+    "item": 478,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa kamote at gata?",
+    "answer": "Ang ginataang kamote ay isang ulam o dessert na gawa sa kamote at gata."
+  },
+  {
+    "item": 479,
+    "question": "What is the ‘Pintados de Pasi Festival’ in Passi known for?",
+    "answer": "The Pintados de Pasi Festival celebrates Passi’s history with tattoo-inspired dances and cultural shows."
+  },
+  {
+    "item": 480,
+    "question": "Ano ang tradisyunal na praktis ng ‘pag-aalay ng sinulid’ sa mga ritwal?",
+    "answer": "Ang pag-aalay ng sinulid ay isang tradisyon ng mga katutubo na sumisimbolo ng pagkakaisa o proteksyon."
+  },
+  {
+    "item": 481,
+    "question": "Who is the Filipino sculptor known for the ‘People Power Monument’?",
+    "answer": "Eduardo Castrillo sculpted the People Power Monument in Quezon City."
+  },
+  {
+    "item": 482,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang ‘karera ng bao’?",
+    "answer": "Ang karera ng bao ay isang larong Pilipino kung saan tinutulak ang bao ng niyog sa isang karera."
+  },
+  {
+    "item": 483,
+    "question": "What is the traditional Filipino musical instrument ‘litgit’?",
+    "answer": "The litgit is a bamboo violin used by the Negrito groups in Northern Luzon."
+  },
+  {
+    "item": 484,
+    "question": "What is the significance of the ‘Subic Bay’ in Zambales?",
+    "answer": "Subic Bay is a historic naval base and now a freeport zone, known for its economic and tourism value."
+  },
+  {
+    "item": 485,
+    "question": "Ano ang ‘salawikain’ sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang salawikain ay isang tradisyunal na kasabihan na nagbibigay ng aral o karunungan."
+  },
+  {
+    "item": 486,
+    "question": "Who is the Filipino content creator known for travel vlogs in 2025?",
+    "answer": "Wil Dasovich is known for his travel vlogs and adventure content on YouTube in 2025."
+  },
+  {
+    "item": 487,
+    "question": "What is the significance of the ‘Battle of Leyte Gulf’?",
+    "answer": "The Battle of Leyte Gulf in 1944 was a decisive WWII naval battle, marking the return of Allied forces."
+  },
+  {
+    "item": 488,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa baboy at toyo?",
+    "answer": "Ang adobong baboy ay isang ulam na gawa sa baboy, toyo, suka, at bawang."
+  },
+  {
+    "item": 489,
+    "question": "What is the ‘Halaran Festival’ in Romblon known for?",
+    "answer": "The Halaran Festival celebrates Romblon’s maritime heritage with boat races and cultural performances."
+  },
+  {
+    "item": 490,
+    "question": "Ano ang tradisyunal na praktis ng ‘pag-aalay ng ginto’ sa mga ritwal?",
+    "answer": "Ang pag-aalay ng ginto ay isang tradisyon ng mga katutubo bilang simbolo ng yaman o sakripisyo."
+  },
+  {
+    "item": 491,
+    "question": "Who is the Filipino painter known for ‘Women Washing Clothes’?",
+    "answer": "Fabian de la Rosa painted ‘Women Washing Clothes,’ depicting everyday Filipino life."
+  },
+  {
+    "item": 492,
+    "question": "Ano ang tradisyunal na larong Pilipino na kilala bilang ‘hwego de prenda’?",
+    "answer": "Ang hwego de prenda ay isang larong Pilipino kung saan hinuhulaan ang nawawalang bagay."
+  },
+  {
+    "item": 493,
+    "question": "What is the traditional Filipino musical instrument ‘kubing’?",
+    "answer": "The kubing is a bamboo jaw harp used by various indigenous groups, producing unique sounds."
+  },
+  {
+    "item": 494,
+    "question": "What is the significance of the ‘Taal Lake’ in Batangas?",
+    "answer": "Taal Lake is a scenic and ecological landmark surrounding the active Taal Volcano."
+  },
+  {
+    "item": 495,
+    "question": "Ano ang ‘alamat’ sa konteksto ng panitikan ng Pilipino?",
+    "answer": "Ang alamat ay isang tradisyunal na kwento na nagpapaliwanag ng pinagmulan ng isang bagay o lugar."
+  },
+  {
+    "item": 496,
+    "question": "What is the significance of the P-pop group MNL48 in 2025?",
+    "answer": "MNL48 is a P-pop group in 2025, promoting Filipino idol culture and music through performances."
+  },
+  {
+    "item": 497,
+    "question": "Who was the Filipino hero known for the ‘Revolt of 1807’?",
+    "answer": "The Revolt of 1807, or Basi Revolt, was led by Pedro Mateo in Ilocos against Spanish wine restrictions."
+  },
+  {
+    "item": 498,
+    "question": "Ano ang pangalan ng tradisyunal na pagkain na gawa sa hipon at kangkong?",
+    "answer": "Ang sinigang na hipon ay isang ulam na gawa sa hipon, kangkong, at tamarindo."
+  },
+  {
+    "item": 499,
+    "question": "What is the ‘Anibong Festival’ in Tandag known for?",
+    "answer": "The Anibong Festival celebrates Surigao del Sur’s palm trees with cultural dances and crafts."
+  },
+  {
+    "item": 500,
+    "question": "Ano ang tradisyunal na praktis ng ‘pag-aalay ng tela’ sa mga ritwal?",
+    "answer": "Ang pag-aalay ng tela ay isang tradisyon ng mga katutubo bilang simbolo ng proteksyon o pasasalamat."
+  }
+]
