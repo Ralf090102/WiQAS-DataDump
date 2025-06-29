@@ -24,3 +24,7 @@ pip install -r requirements.txt
 * Download and Install [ollama](https://ollama.com/download/windows) <br>
 * Once installed enter command `ollama run gemma3` in terminal to install gemma-3-4b <br>
 * For more information => [Click Here](https://github.com/ollama/ollama) <br>
+
+### 3. Precompiled Data (Download)
+* Drag all to `data` directory => [JSON Data](https://drive.google.com/file/d/18q1JpQeoeuuMyn0_ZLnQctih4581AA6b/view?usp=sharing)
+* Drag all to `knowledge_base` directory => [Knowledge Base](https://drive.google.com/file/d/1y_pVmXZwNCoK9KsPyvw6VnhSDFK8vUal/view?usp=sharing)
